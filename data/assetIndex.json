@@ -1,0 +1,1937 @@
+{
+  "version": "3.0",
+  "totalAssets": 89,
+  "categories": [
+    {
+      "id": "arrows",
+      "name": "Arrows",
+      "count": 5
+    },
+    {
+      "id": "circular-diagrams",
+      "name": "Circular Diagrams",
+      "count": 11
+    },
+    {
+      "id": "maps",
+      "name": "Maps",
+      "count": 2
+    },
+    {
+      "id": "org-charts",
+      "name": "Org Charts",
+      "count": 2
+    },
+    {
+      "id": "other-shapes",
+      "name": "Other Shapes",
+      "count": 15
+    },
+    {
+      "id": "process-charts",
+      "name": "Process Charts",
+      "count": 38
+    },
+    {
+      "id": "timelines",
+      "name": "Timelines",
+      "count": 16
+    }
+  ],
+  "assets": [
+    {
+      "id": "slide_103",
+      "sn": 103,
+      "t": "Shape 3583",
+      "cat": "Other Shapes",
+      "sub": "Security",
+      "tags": [
+        "Hexagon",
+        "Shape 3583"
+      ],
+      "kw": [
+        "hexagon"
+      ],
+      "thumb": "assets/thumbnails/slide_103.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_104",
+      "sn": 104,
+      "t": "Rectangle 2",
+      "cat": "Other Shapes",
+      "sub": "",
+      "tags": [
+        "Hexagon Section Tracker",
+        "Rectangle 2"
+      ],
+      "kw": [
+        "hexagon",
+        "section",
+        "tracker"
+      ],
+      "thumb": "assets/thumbnails/slide_104.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_105",
+      "sn": 105,
+      "t": "Text",
+      "cat": "Other Shapes",
+      "sub": "Hexagon",
+      "tags": [
+        "Text"
+      ],
+      "kw": [
+        "text"
+      ],
+      "thumb": "assets/thumbnails/slide_105.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_106",
+      "sn": 106,
+      "t": "1",
+      "cat": "Other Shapes",
+      "tags": [
+        "3",
+        "5",
+        "2",
+        "4",
+        "1"
+      ],
+      "kw": [
+        "pellentesque",
+        "eros",
+        "heading",
+        "morbi",
+        "quam",
+        "consectetuer",
+        "ultricies",
+        "diam",
+        "ullamcorper",
+        "tincidunt"
+      ],
+      "thumb": "assets/thumbnails/slide_106.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_107",
+      "sn": 107,
+      "t": "Section title",
+      "cat": "Other Shapes",
+      "sub": "Hexagon",
+      "tags": [
+        "Section",
+        "title",
+        "Section title"
+      ],
+      "kw": [
+        "pellentesque",
+        "diam",
+        "ullamcorper",
+        "hendrerit",
+        "aenean",
+        "section",
+        "quam",
+        "consectetuer",
+        "massa",
+        "quis"
+      ],
+      "thumb": "assets/thumbnails/slide_107.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_108",
+      "sn": 108,
+      "t": "Group 26",
+      "cat": "Other Shapes",
+      "sub": "Octogan",
+      "tags": [
+        "G",
+        "Group 26"
+      ],
+      "kw": [],
+      "thumb": "assets/thumbnails/slide_108.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_109",
+      "sn": 109,
+      "t": "Text here",
+      "cat": "Other Shapes",
+      "sub": "Spider diagram",
+      "tags": [
+        "Text here"
+      ],
+      "kw": [
+        "here",
+        "text"
+      ],
+      "thumb": "assets/thumbnails/slide_109.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_110",
+      "sn": 110,
+      "t": "Text here",
+      "cat": "Circular Diagrams",
+      "sub": "Radar diagram",
+      "tags": [
+        "Text here"
+      ],
+      "kw": [
+        "here",
+        "text"
+      ],
+      "thumb": "assets/thumbnails/slide_110.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_111",
+      "sn": 111,
+      "t": "Group 23",
+      "cat": "Other Shapes",
+      "sub": "Cog wheels",
+      "tags": [
+        "xxx",
+        "Group 23"
+      ],
+      "kw": [
+        "xxx"
+      ],
+      "thumb": "assets/thumbnails/slide_111.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_112",
+      "sn": 112,
+      "t": "Group 12",
+      "cat": "Other Shapes",
+      "sub": "Cog wheels",
+      "tags": [
+        "Group 12"
+      ],
+      "kw": [],
+      "thumb": "assets/thumbnails/slide_112.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_113",
+      "sn": 113,
+      "t": "8 piece puzzle",
+      "cat": "Circular Diagrams",
+      "sub": "Jigsaw puzzle wheel",
+      "tags": [
+        "go here to go here go here go",
+        "8 piece puzzle",
+        "Text to go here go here",
+        "diagram",
+        "01"
+      ],
+      "kw": [
+        "slide",
+        "here",
+        "text",
+        "piece",
+        "new",
+        "puzzle",
+        "diagram"
+      ],
+      "thumb": "assets/thumbnails/slide_113.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_114",
+      "sn": 114,
+      "t": "Group 7",
+      "cat": "Circular Diagrams",
+      "sub": "Jigsaw puzzle pieces",
+      "tags": [
+        "Group 7"
+      ],
+      "kw": [],
+      "thumb": "assets/thumbnails/slide_114.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_115",
+      "sn": 115,
+      "t": "Rectangle 2",
+      "cat": "Circular Diagrams",
+      "sub": "",
+      "tags": [
+        "Puzzle pieces",
+        "Rectangle 2"
+      ],
+      "kw": [
+        "puzzle",
+        "pieces"
+      ],
+      "thumb": "assets/thumbnails/slide_115.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_116",
+      "sn": 116,
+      "t": "Can be edited to different layouts, e.g. four pieces+",
+      "cat": "Circular Diagrams",
+      "sub": "Jigsaw puzzle pieces",
+      "tags": [
+        "Can be edited to different layouts, e.g. four pieces+",
+        "recoloured",
+        "and resized. Use shift to constrain proportions when resizing",
+        "Objects can be ungrouped and"
+      ],
+      "kw": [
+        "proportions",
+        "edited",
+        "can",
+        "constrain",
+        "resizing",
+        "layouts",
+        "objects",
+        "use",
+        "pieces",
+        "four"
+      ],
+      "thumb": "assets/thumbnails/slide_116.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_117",
+      "sn": 117,
+      "t": "Group 30",
+      "cat": "Circular Diagrams",
+      "sub": "Jigsaw puzzle pieces",
+      "tags": [
+        "Group 30"
+      ],
+      "kw": [],
+      "thumb": "assets/thumbnails/slide_117.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_118",
+      "sn": 118,
+      "t": "Rectangle 18",
+      "cat": "Circular Diagrams",
+      "sub": "Jigsaw puzzle pieces",
+      "tags": [
+        "Can be edited to different layouts, e.g. four pieces+",
+        "recoloured",
+        "and resized. Use shift to constrain proportions when resizing",
+        "Objects can be ungrouped and",
+        "Rectangle 18"
+      ],
+      "kw": [
+        "proportions",
+        "edited",
+        "can",
+        "constrain",
+        "resizing",
+        "layouts",
+        "objects",
+        "use",
+        "pieces",
+        "four"
+      ],
+      "thumb": "assets/thumbnails/slide_118.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_119",
+      "sn": 119,
+      "t": "Specialists",
+      "cat": "Other Shapes",
+      "sub": "Specialists",
+      "tags": [
+        "Tax",
+        "Name",
+        "Specialists"
+      ],
+      "kw": [
+        "global",
+        "audit",
+        "assistant",
+        "relationship",
+        "assurance",
+        "team",
+        "ipo",
+        "and",
+        "csr",
+        "senior"
+      ],
+      "thumb": "assets/thumbnails/slide_119.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_120",
+      "sn": 120,
+      "t": "Circular Diagrams - Slide 120",
+      "cat": "Circular Diagrams",
+      "sub": "Jigsaw puzzle pieces",
+      "thumb": "assets/thumbnails/slide_120.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_121",
+      "sn": 121,
+      "t": "Circular Diagrams - Slide 121",
+      "cat": "Circular Diagrams",
+      "sub": "imelines",
+      "thumb": "assets/thumbnails/slide_121.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_122",
+      "sn": 122,
+      "t": "Hints:",
+      "cat": "Timelines",
+      "tags": [
+        "1\tCalculate and enter the value corresponding to the area below the column in the row marked \"Space\"",
+        "2\tEnter the height of the column in the row marked \"Column\" row",
+        "3\tDrag the data labels to the top of the column manually (Make sure that \"Snap to Shape\" in the Drawing menu is selected)",
+        "4\tAlign the lines between the columns manually",
+        "Hints:"
+      ],
+      "kw": [
+        "hints",
+        "snap",
+        "data",
+        "select",
+        "sure",
+        "once",
+        "enter",
+        "that",
+        "marked",
+        "top"
+      ],
+      "thumb": "assets/thumbnails/slide_122.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_123",
+      "sn": 123,
+      "t": "Active chart –",
+      "cat": "Process Charts",
+      "sub": "values can be changed",
+      "tags": [
+        "values can be changed",
+        "Active chart –"
+      ],
+      "kw": [
+        "can",
+        "changed",
+        "chart",
+        "values",
+        "active"
+      ],
+      "thumb": "assets/thumbnails/slide_123.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_124",
+      "sn": 124,
+      "t": "This is a placeholder",
+      "cat": "Process Charts",
+      "tags": [
+        "This is a placeholder text. It can be replaced by your own one.",
+        "text",
+        "This is a placeholder",
+        "Please insert your text"
+      ],
+      "kw": [
+        "can",
+        "your",
+        "insert",
+        "please",
+        "text",
+        "own",
+        "one",
+        "laceholder",
+        "this",
+        "replaced"
+      ],
+      "thumb": "assets/thumbnails/slide_124.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_125",
+      "sn": 125,
+      "t": "Process Charts - Slide 125",
+      "cat": "Process Charts",
+      "sub": "Process Charts",
+      "thumb": "assets/thumbnails/slide_125.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_126",
+      "sn": 126,
+      "t": "Group 96",
+      "cat": "Process Charts",
+      "sub": "",
+      "tags": [
+        "Morbi",
+        "consectetuer",
+        "ullamcorper",
+        "quam.",
+        "Mauris",
+        "Group 96"
+      ],
+      "kw": [
+        "pellentesque",
+        "eros",
+        "morbi",
+        "quam",
+        "consectetuer",
+        "ultricies",
+        "xxx",
+        "diam",
+        "ullamcorper",
+        "tincidunt"
+      ],
+      "thumb": "assets/thumbnails/slide_126.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_127",
+      "sn": 127,
+      "t": "PwC history",
+      "cat": "Timelines",
+      "sub": "PwC UK History",
+      "tags": [
+        "1990 Coopers & Lybrand merges with Deloitte Haskins & Sells in a number of countries around the world",
+        "PwC history",
+        "William Cooper establishes his own practice in London, which seven years later becomes Cooper Brothers",
+        "Price Waterhouse World Firm formed",
+        "PricewaterhouseCoopers was created on 1 July 1998 by the merger of two firms - Price Waterhouse and Coopers & Lybrand - each with historical roots going back some 150 years."
+      ],
+      "kw": [
+        "sells",
+        "around",
+        "later",
+        "samuel",
+        "ross",
+        "brother",
+        "coopers",
+        "countries",
+        "pricewaterhousecoopers",
+        "january"
+      ],
+      "thumb": "assets/thumbnails/slide_127.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_128",
+      "sn": 128,
+      "t": "Group 227",
+      "cat": "Timelines",
+      "sub": "",
+      "tags": [
+        "27/01/2012",
+        "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "Group 227"
+      ],
+      "kw": [
+        "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+      ],
+      "thumb": "assets/thumbnails/slide_128.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_129",
+      "sn": 129,
+      "t": "Group 151",
+      "cat": "Timelines",
+      "sub": "",
+      "tags": [
+        "xxx",
+        "Group 151"
+      ],
+      "kw": [
+        "xxx"
+      ],
+      "thumb": "assets/thumbnails/slide_129.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_130",
+      "sn": 130,
+      "t": "Timeline with statuses",
+      "cat": "Timelines",
+      "tags": [
+        "[Year]",
+        "Timeline with statuses"
+      ],
+      "kw": [
+        "timeline",
+        "statuses",
+        "with",
+        "year"
+      ],
+      "thumb": "assets/thumbnails/slide_130.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_131",
+      "sn": 131,
+      "t": "Group 14",
+      "cat": "Timelines",
+      "sub": "",
+      "tags": [
+        "Group 14"
+      ],
+      "kw": [],
+      "thumb": "assets/thumbnails/slide_131.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_132",
+      "sn": 132,
+      "t": "5",
+      "cat": "Timelines",
+      "sub": "-1 Executive Summary",
+      "tags": [
+        "June 2, 2016",
+        "(latest)",
+        "-1 Executive Summary",
+        "July 5th, 2016",
+        "5"
+      ],
+      "kw": [
+        "per",
+        "bank",
+        "june",
+        "executive",
+        "september",
+        "summary",
+        "december",
+        "latest",
+        "july",
+        "going"
+      ],
+      "thumb": "assets/thumbnails/slide_132.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_133",
+      "sn": 133,
+      "t": "Oval 9",
+      "cat": "Timelines",
+      "sub": "",
+      "tags": [
+        "2014",
+        "Oval 9"
+      ],
+      "kw": [],
+      "thumb": "assets/thumbnails/slide_133.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_134",
+      "sn": 134,
+      "t": "Project Management",
+      "cat": "Timelines",
+      "tags": [
+        "Project Management",
+        "Phase III: Pilot and Establish",
+        "Phase II: Design and Develop",
+        "Phase IV: Manage and Execute",
+        "Phase I: Assess and Define"
+      ],
+      "kw": [
+        "work",
+        "within",
+        "streams",
+        "april",
+        "execute",
+        "for",
+        "may",
+        "timing",
+        "plan",
+        "team"
+      ],
+      "thumb": "assets/thumbnails/slide_134.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_135",
+      "sn": 135,
+      "t": "Group 1763",
+      "cat": "Timelines",
+      "sub": "Gantt chart example",
+      "tags": [
+        "Group 1763"
+      ],
+      "kw": [],
+      "thumb": "assets/thumbnails/slide_135.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_136",
+      "sn": 136,
+      "t": "Rectangle 152",
+      "cat": "Timelines",
+      "sub": "Work stream towards:",
+      "tags": [
+        "Milestone",
+        "Rectangle 152"
+      ],
+      "kw": [
+        "milestone"
+      ],
+      "thumb": "assets/thumbnails/slide_136.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_137",
+      "sn": 137,
+      "t": "Continuous communication",
+      "cat": "Timelines",
+      "sub": "Timelines",
+      "tags": [
+        "May",
+        "Continuous communication",
+        "March",
+        "June",
+        "April"
+      ],
+      "kw": [
+        "audit",
+        "april",
+        "may",
+        "march",
+        "communication",
+        "aug",
+        "jan",
+        "dec",
+        "continuous",
+        "sept"
+      ],
+      "thumb": "assets/thumbnails/slide_137.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_138",
+      "sn": 138,
+      "t": "Oct",
+      "cat": "Timelines",
+      "tags": [
+        "Feb",
+        "Nov",
+        "Jan",
+        "Dec",
+        "Oct"
+      ],
+      "kw": [
+        "audit",
+        "testing",
+        "mobilisation",
+        "may",
+        "plan",
+        "resolution",
+        "jul",
+        "year",
+        "pre",
+        "completion"
+      ],
+      "thumb": "assets/thumbnails/slide_138.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_139",
+      "sn": 139,
+      "t": "january",
+      "cat": "Timelines",
+      "tags": [
+        "february",
+        "january",
+        "april",
+        "may",
+        "march"
+      ],
+      "kw": [
+        "february",
+        "january",
+        "august",
+        "april",
+        "may",
+        "march",
+        "june",
+        "november",
+        "document",
+        "september"
+      ],
+      "thumb": "assets/thumbnails/slide_139.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_140",
+      "sn": 140,
+      "t": "Process Charts - Slide 140",
+      "cat": "Process Charts",
+      "thumb": "assets/thumbnails/slide_140.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_141",
+      "sn": 141,
+      "t": "Rectangle 10",
+      "cat": "Circular Diagrams",
+      "sub": "Sections and percentages",
+      "tags": [
+        "Key themes and findings from Paying Taxes 2013",
+        "Rectangle 10"
+      ],
+      "kw": [
+        "themes",
+        "key",
+        "findings",
+        "paying",
+        "taxes",
+        "and",
+        "from"
+      ],
+      "thumb": "assets/thumbnails/slide_141.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_142",
+      "sn": 142,
+      "t": "Kanada",
+      "cat": "Circular Diagrams",
+      "sub": "Examples",
+      "tags": [
+        "xxxxxxxxxxxxxxx",
+        "Kanada",
+        "xxxxxxx",
+        "xxxxxxxxxxx",
+        "Xxxxxxxxxxxxxx"
+      ],
+      "kw": [
+        "xxxxxxxxxxxxxxx",
+        "australien",
+        "schweden",
+        "norwegen",
+        "deutschland",
+        "xxxxxxx",
+        "xxxxxxxxxxx",
+        "xxxxxxxxxxxxxx",
+        "usa",
+        "source"
+      ],
+      "thumb": "assets/thumbnails/slide_142.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_143",
+      "sn": 143,
+      "t": "Rectangle 10",
+      "cat": "Process Charts",
+      "sub": "Doughnut charts",
+      "tags": [
+        "Profit Taxes",
+        "Rectangle 10"
+      ],
+      "kw": [
+        "taxes",
+        "profit"
+      ],
+      "thumb": "assets/thumbnails/slide_143.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_144",
+      "sn": 144,
+      "t": "Graph",
+      "cat": "Process Charts",
+      "sub": "Hogere",
+      "tags": [
+        "Hogere",
+        "omzet",
+        "Graph",
+        "iets lager",
+        "bij"
+      ],
+      "kw": [
+        "roulatie",
+        "waardering",
+        "iets",
+        "graph",
+        "mln",
+        "pagina",
+        "assurance",
+        "zie",
+        "resultaten",
+        "omzet"
+      ],
+      "thumb": "assets/thumbnails/slide_144.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_145",
+      "sn": 145,
+      "t": "Uitstekende uitkomst",
+      "cat": "Process Charts",
+      "sub": "medewerkerstevredenheidsonderzoek",
+      "tags": [
+        "Uitstekende uitkomst",
+        "86%",
+        "80%",
+        "medewerkerstevredenheidsonderzoek"
+      ],
+      "kw": [
+        "pagina",
+        "aangepast",
+        "pwc",
+        "neemt",
+        "zie",
+        "persoonlijke",
+        "aanbevelen",
+        "definitie",
+        "kansen",
+        "toe"
+      ],
+      "thumb": "assets/thumbnails/slide_145.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_146",
+      "sn": 146,
+      "t": "Insurers rely on different decision styles and data with different constraints and motivators for their strategic decisions",
+      "cat": "Process Charts",
+      "sub": "Title of presentation",
+      "tags": [
+        "Insurers rely on different decision styles and data with different constraints and motivators for their strategic decisions",
+        "rely on…",
+        "require change & investment in…",
+        "Our Point of View",
+        "In order to do so, [Global, insurance client] must increase its speed and sophistication in decision making by leveraging existing data assets and enhancing analytic operating model"
+      ],
+      "kw": [
+        "global",
+        "can",
+        "advice",
+        "analytic",
+        "approach",
+        "decisions",
+        "offerings",
+        "insurance",
+        "need",
+        "strategic"
+      ],
+      "thumb": "assets/thumbnails/slide_146.png",
+      "type": "slide",
+      "img": true
+    },
+    {
+      "id": "slide_147",
+      "sn": 147,
+      "t": "Rectangle 2",
+      "cat": "Process Charts",
+      "sub": "",
+      "tags": [
+        "Thermometers",
+        "Rectangle 2"
+      ],
+      "kw": [
+        "thermometers"
+      ],
+      "thumb": "assets/thumbnails/slide_147.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_148",
+      "sn": 148,
+      "t": "Group 12",
+      "cat": "Process Charts",
+      "sub": "Thermometer",
+      "tags": [
+        "Group 12"
+      ],
+      "kw": [],
+      "thumb": "assets/thumbnails/slide_148.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_149",
+      "sn": 149,
+      "t": "Excellent",
+      "cat": "Process Charts",
+      "tags": [
+        "Excellent",
+        "Good",
+        "Poor",
+        "Satisfactory",
+        "Very poor"
+      ],
+      "kw": [
+        "good",
+        "excellent",
+        "poor",
+        "very",
+        "satisfactory"
+      ],
+      "thumb": "assets/thumbnails/slide_149.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_150",
+      "sn": 150,
+      "t": "Excellent",
+      "cat": "Process Charts",
+      "sub": "Criterion 1",
+      "tags": [
+        "Excellent",
+        "Good",
+        "Poor",
+        "Satisfactory",
+        "Very poor"
+      ],
+      "kw": [
+        "good",
+        "excellent",
+        "poor",
+        "very",
+        "satisfactory"
+      ],
+      "thumb": "assets/thumbnails/slide_150.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_151",
+      "sn": 151,
+      "t": "Excellent",
+      "cat": "Process Charts",
+      "tags": [
+        "Excellent",
+        "Good",
+        "Poor",
+        "Satisfactory",
+        "Very poor"
+      ],
+      "kw": [
+        "good",
+        "excellent",
+        "poor",
+        "very",
+        "satisfactory"
+      ],
+      "thumb": "assets/thumbnails/slide_151.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_152",
+      "sn": 152,
+      "t": "Group 2",
+      "cat": "Process Charts",
+      "sub": "X",
+      "tags": [
+        "Good",
+        "Group 2"
+      ],
+      "kw": [
+        "good"
+      ],
+      "thumb": "assets/thumbnails/slide_152.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_153",
+      "sn": 153,
+      "t": "Active chart – values can be changed.",
+      "cat": "Process Charts",
+      "sub": "Bar chart",
+      "tags": [
+        "Active chart – values can be changed.",
+        "Summary values need to be updated manually"
+      ],
+      "kw": [
+        "need",
+        "can",
+        "changed",
+        "chart",
+        "manually",
+        "values",
+        "active",
+        "summary",
+        "updated"
+      ],
+      "thumb": "assets/thumbnails/slide_153.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_154",
+      "sn": 154,
+      "t": "Group 11",
+      "cat": "Process Charts",
+      "sub": "Bar chart",
+      "tags": [
+        "Group 11"
+      ],
+      "kw": [],
+      "thumb": "assets/thumbnails/slide_154.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_155",
+      "sn": 155,
+      "t": "Group/Corporate controls",
+      "cat": "Process Charts",
+      "sub": "Bottle neck",
+      "tags": [
+        "Full local substantive audit procedures and opinions",
+        "Group/Corporate controls",
+        "Local procedures tailored",
+        "Increase in controls reliance",
+        "Shared processes/systems"
+      ],
+      "kw": [
+        "reliance",
+        "audit",
+        "opinions",
+        "increase",
+        "procedures",
+        "shared",
+        "full",
+        "group",
+        "substantive",
+        "controls"
+      ],
+      "thumb": "assets/thumbnails/slide_155.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_156",
+      "sn": 156,
+      "t": "Mauris",
+      "cat": "Process Charts",
+      "sub": "Bottle neck",
+      "tags": [
+        "Morbi",
+        "consectetuer",
+        "ullamcorper",
+        "quam.",
+        "Mauris"
+      ],
+      "kw": [
+        "pellentesque",
+        "eros",
+        "morbi",
+        "quam",
+        "varius",
+        "consectetuer",
+        "ultricies",
+        "diam",
+        "tempus",
+        "ullamcorper"
+      ],
+      "thumb": "assets/thumbnails/slide_156.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_157",
+      "sn": 157,
+      "t": "Process Charts - Slide 157",
+      "cat": "Process Charts",
+      "sub": "Maze",
+      "thumb": "assets/thumbnails/slide_157.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_158",
+      "sn": 158,
+      "t": "Text",
+      "cat": "Process Charts",
+      "sub": "Linear flow",
+      "tags": [
+        "Text"
+      ],
+      "kw": [
+        "text"
+      ],
+      "thumb": "assets/thumbnails/slide_158.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_159",
+      "sn": 159,
+      "t": "Text",
+      "cat": "Process Charts",
+      "sub": "Linear flow",
+      "tags": [
+        "Text"
+      ],
+      "kw": [
+        "text"
+      ],
+      "thumb": "assets/thumbnails/slide_159.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_160",
+      "sn": 160,
+      "t": "1",
+      "cat": "Process Charts",
+      "sub": "Linear flow",
+      "tags": [
+        "1",
+        "2",
+        "3",
+        "Text"
+      ],
+      "kw": [
+        "text"
+      ],
+      "thumb": "assets/thumbnails/slide_160.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_161",
+      "sn": 161,
+      "t": "Group 4",
+      "cat": "Process Charts",
+      "sub": "Linear flow",
+      "tags": [
+        "Group 4"
+      ],
+      "kw": [],
+      "thumb": "assets/thumbnails/slide_161.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_162",
+      "sn": 162,
+      "t": "Rectangle 10",
+      "cat": "Process Charts",
+      "sub": "Linear flow",
+      "tags": [
+        "Heading",
+        "consectetuer",
+        "ullamcorper",
+        "quam.",
+        "Mauris",
+        "Rectangle 10"
+      ],
+      "kw": [
+        "pellentesque",
+        "eros",
+        "heading",
+        "quam",
+        "morbi",
+        "consectetuer",
+        "ultricies",
+        "diam",
+        "ullamcorper",
+        "tincidunt"
+      ],
+      "thumb": "assets/thumbnails/slide_162.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_163",
+      "sn": 163,
+      "t": "Step 1",
+      "cat": "Process Charts",
+      "sub": "Linear flow",
+      "tags": [
+        "Step 3",
+        "Step 4",
+        "Step 2",
+        "Step 1",
+        "Mauris"
+      ],
+      "kw": [
+        "pellentesque",
+        "eros",
+        "quam",
+        "morbi",
+        "varius",
+        "consectetuer",
+        "ultricies",
+        "diam",
+        "tempus",
+        "ullamcorper"
+      ],
+      "thumb": "assets/thumbnails/slide_163.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_164",
+      "sn": 164,
+      "t": "Group 68",
+      "cat": "Process Charts",
+      "sub": "Linear flow",
+      "tags": [
+        "Group 68"
+      ],
+      "kw": [],
+      "thumb": "assets/thumbnails/slide_164.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_165",
+      "sn": 165,
+      "t": "Group 9",
+      "cat": "Process Charts",
+      "sub": "List",
+      "tags": [
+        "consectetuer",
+        "Option 1",
+        "ullamcorper",
+        "quam.",
+        "Mauris",
+        "Group 9"
+      ],
+      "kw": [
+        "pellentesque",
+        "diam",
+        "ullamcorper",
+        "hendrerit",
+        "aenean",
+        "quam",
+        "consectetuer",
+        "massa",
+        "quis",
+        "mauris"
+      ],
+      "thumb": "assets/thumbnails/slide_165.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_166",
+      "sn": 166,
+      "t": "Text",
+      "cat": "Process Charts",
+      "tags": [
+        "Text"
+      ],
+      "kw": [
+        "text"
+      ],
+      "thumb": "assets/thumbnails/slide_166.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_167",
+      "sn": 167,
+      "t": "Issue",
+      "cat": "Process Charts",
+      "sub": "Issue–action–impact",
+      "tags": [
+        "Issue",
+        "Action",
+        "Client",
+        "Impact",
+        "Issue 1"
+      ],
+      "kw": [
+        "action",
+        "the",
+        "description",
+        "impact",
+        "issue",
+        "client"
+      ],
+      "thumb": "assets/thumbnails/slide_167.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_168",
+      "sn": 168,
+      "t": "Group 43",
+      "cat": "Process Charts",
+      "sub": "",
+      "tags": [
+        "Internal",
+        "Transactions",
+        "assurance",
+        "controls",
+        "GRC",
+        "Group 43"
+      ],
+      "kw": [
+        "assurance",
+        "compliance",
+        "improvement",
+        "internal",
+        "consultant",
+        "controls",
+        "business",
+        "risk",
+        "transactions",
+        "grc"
+      ],
+      "thumb": "assets/thumbnails/slide_168.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_169",
+      "sn": 169,
+      "t": "Group 23",
+      "cat": "Process Charts",
+      "sub": "Scale",
+      "tags": [
+        "3",
+        "5",
+        "2",
+        "4",
+        "1",
+        "Group 23"
+      ],
+      "kw": [],
+      "thumb": "assets/thumbnails/slide_169.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_170",
+      "sn": 170,
+      "t": "Value",
+      "cat": "Process Charts",
+      "tags": [
+        "Plan and",
+        "Execute",
+        "protection",
+        "scope",
+        "Value"
+      ],
+      "kw": [
+        "finalise",
+        "design",
+        "analyse",
+        "the",
+        "approach",
+        "execute",
+        "plan",
+        "assess",
+        "protection",
+        "define"
+      ],
+      "thumb": "assets/thumbnails/slide_170.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_171",
+      "sn": 171,
+      "t": "Task description",
+      "cat": "Process Charts",
+      "tags": [
+        "Step 1",
+        "Title",
+        "Task description"
+      ],
+      "kw": [
+        "title",
+        "task",
+        "step",
+        "description"
+      ],
+      "thumb": "assets/thumbnails/slide_171.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_172",
+      "sn": 172,
+      "t": "Text",
+      "cat": "Process Charts",
+      "tags": [
+        "Text"
+      ],
+      "kw": [
+        "text"
+      ],
+      "thumb": "assets/thumbnails/slide_172.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_173",
+      "sn": 173,
+      "t": "Xxx",
+      "cat": "Other Shapes",
+      "sub": "Funnel",
+      "tags": [
+        "Xxx"
+      ],
+      "kw": [
+        "heading",
+        "text",
+        "title",
+        "xxx",
+        "xxxx"
+      ],
+      "thumb": "assets/thumbnails/slide_173.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_174",
+      "sn": 174,
+      "t": "Group 12",
+      "cat": "Process Charts",
+      "sub": "Monopoly board",
+      "tags": [
+        "consectetuer",
+        "xxx",
+        "Mauris",
+        "Group 12"
+      ],
+      "kw": [
+        "pellentesque",
+        "xxxxx",
+        "xxxxxxxxxxxxxxxx",
+        "diam",
+        "ullamcorper",
+        "hendrerit",
+        "aenean",
+        "quam",
+        "consectetuer",
+        "massa"
+      ],
+      "thumb": "assets/thumbnails/slide_174.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_175",
+      "sn": 175,
+      "t": "Group 5",
+      "cat": "Process Charts",
+      "sub": "",
+      "tags": [
+        "Short description",
+        "Phase name",
+        "Group 5"
+      ],
+      "kw": [
+        "description",
+        "name",
+        "phase",
+        "short"
+      ],
+      "thumb": "assets/thumbnails/slide_175.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_176",
+      "sn": 176,
+      "t": "TextBox 8",
+      "cat": "Arrows",
+      "sub": "",
+      "tags": [
+        "Vendor Discovery Process:",
+        "established a repeatable process to perform vendor discovery using information from Accounts Payable (AP) to identify and stratify vendors engaged by Costco.",
+        "TextBox 8"
+      ],
+      "kw": [
+        "engaged",
+        "stratify",
+        "identify",
+        "accounts",
+        "repeatable",
+        "process",
+        "vendor",
+        "discovery",
+        "information",
+        "payable"
+      ],
+      "thumb": "assets/thumbnails/slide_176.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_177",
+      "sn": 177,
+      "t": "1",
+      "cat": "Arrows",
+      "tags": [
+        "3",
+        "5",
+        "2",
+        "4",
+        "1"
+      ],
+      "kw": [
+        "pellentesque",
+        "diam",
+        "ullamcorper",
+        "hendrerit",
+        "aenean",
+        "here",
+        "quam",
+        "consectetuer",
+        "massa",
+        "quis"
+      ],
+      "thumb": "assets/thumbnails/slide_177.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_178",
+      "sn": 178,
+      "t": "A",
+      "cat": "Arrows",
+      "tags": [
+        "here",
+        "goes",
+        "Step 1",
+        "Text goes here",
+        "A"
+      ],
+      "kw": [
+        "here",
+        "text",
+        "goes",
+        "step"
+      ],
+      "thumb": "assets/thumbnails/slide_178.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_179",
+      "sn": 179,
+      "t": "rating",
+      "cat": "Process Charts",
+      "sub": "rating",
+      "tags": [
+        "assessment",
+        "Total",
+        "rating",
+        "Inherent risk",
+        "Third Party Inventory from multiple data sources"
+      ],
+      "kw": [
+        "total",
+        "third",
+        "data",
+        "sources",
+        "assessment",
+        "party",
+        "multiple",
+        "rating",
+        "inherent",
+        "inventory"
+      ],
+      "thumb": "assets/thumbnails/slide_179.png",
+      "type": "slide",
+      "img": true
+    },
+    {
+      "id": "slide_180",
+      "sn": 180,
+      "t": "OUTPUTS",
+      "cat": "Other Shapes",
+      "sub": "Funnel",
+      "tags": [
+        "Xxx",
+        "xxx",
+        "OUTPUTS"
+      ],
+      "kw": [
+        "xxx",
+        "inputs",
+        "outputs"
+      ],
+      "thumb": "assets/thumbnails/slide_180.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_181",
+      "sn": 181,
+      "t": "object 38",
+      "cat": "Arrows",
+      "sub": "Klanten",
+      "tags": [
+        "Klanten",
+        "object 38"
+      ],
+      "kw": [
+        "klanten"
+      ],
+      "thumb": "assets/thumbnails/slide_181.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_182",
+      "sn": 182,
+      "t": "Rounded Rectangle 3",
+      "cat": "Arrows",
+      "sub": "Vendor Discovery",
+      "tags": [
+        "Vendor Discovery",
+        "Rounded Rectangle 3"
+      ],
+      "kw": [
+        "vendor",
+        "discovery"
+      ],
+      "thumb": "assets/thumbnails/slide_182.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_183",
+      "sn": 183,
+      "t": "Group 53",
+      "cat": "Maps",
+      "sub": "",
+      "tags": [
+        "Group 53"
+      ],
+      "kw": [],
+      "thumb": "assets/thumbnails/slide_183.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_184",
+      "sn": 184,
+      "t": "Group 4",
+      "cat": "Maps",
+      "sub": "",
+      "tags": [
+        "Group 4"
+      ],
+      "kw": [],
+      "thumb": "assets/thumbnails/slide_184.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_185",
+      "sn": 185,
+      "t": "Input",
+      "cat": "Timelines",
+      "sub": "Input",
+      "tags": [
+        "What resources have been used for business activities?",
+        "Input",
+        "Output",
+        "What activities have been done?",
+        "Outcome"
+      ],
+      "kw": [
+        "done",
+        "outcome",
+        "changed",
+        "for",
+        "that",
+        "traditional",
+        "been",
+        "used",
+        "total",
+        "much"
+      ],
+      "thumb": "assets/thumbnails/slide_185.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_186",
+      "sn": 186,
+      "t": "Fig. x De weg naar integrated reporting",
+      "cat": "Timelines",
+      "sub": "Fig. x De weg naar integrated reporting",
+      "tags": [
+        "Tegemoetkomen aan verwachtingen",
+        "stakeholders",
+        "Niet-financiële rapportage als merkbepalend communicatie-instrument",
+        "Fig. x De weg naar integrated reporting",
+        "Geïntegreerde rapportage als concurrentievoordeel"
+      ],
+      "kw": [
+        "reguliere",
+        "bedrijfsvoering",
+        "onderwerpen",
+        "compliance",
+        "nog",
+        "rapportagesystemen",
+        "standaarden",
+        "verder",
+        "maturity",
+        "als"
+      ],
+      "thumb": "assets/thumbnails/slide_186.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_187",
+      "sn": 187,
+      "t": "Relationships & collaboration",
+      "cat": "Org Charts",
+      "sub": "Relationships & collaboration",
+      "tags": [
+        "influence",
+        "Teams & other working units",
+        "Organisational",
+        "Organisation",
+        "Relationships & collaboration"
+      ],
+      "kw": [
+        "work",
+        "things",
+        "organisational",
+        "units",
+        "decisions",
+        "structure",
+        "connect",
+        "here",
+        "metrics",
+        "rules"
+      ],
+      "thumb": "assets/thumbnails/slide_187.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_188",
+      "sn": 188,
+      "t": "Rectangle 2",
+      "cat": "Org Charts",
+      "sub": "",
+      "tags": [
+        "Group consolidation",
+        "Rectangle 2"
+      ],
+      "kw": [
+        "consolidation",
+        "group"
+      ],
+      "thumb": "assets/thumbnails/slide_188.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_189",
+      "sn": 189,
+      "t": "Text",
+      "cat": "Other Shapes",
+      "tags": [
+        "Text"
+      ],
+      "kw": [
+        "text"
+      ],
+      "thumb": "assets/thumbnails/slide_189.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_190",
+      "sn": 190,
+      "t": "Group 7",
+      "cat": "Other Shapes",
+      "sub": "",
+      "tags": [
+        "Group 7"
+      ],
+      "kw": [],
+      "thumb": "assets/thumbnails/slide_190.png",
+      "type": "slide",
+      "img": false
+    },
+    {
+      "id": "slide_191",
+      "sn": 191,
+      "t": "Rectangle 2",
+      "cat": "Other Shapes",
+      "sub": "",
+      "tags": [
+        "Balance",
+        "Rectangle 2"
+      ],
+      "kw": [
+        "balance"
+      ],
+      "thumb": "assets/thumbnails/slide_191.png",
+      "type": "slide",
+      "img": false
+    }
+  ]
+}

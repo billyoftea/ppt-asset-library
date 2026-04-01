@@ -1,0 +1,23 @@
+<!doctype html><html lang="en"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>PPT Asset Library</title><script src="https://appsforoffice.microsoft.com/lib/1/hosted/office.js"></script><script defer="defer" src="taskpane.bundle.js"></script></head><body><div id="root"></div><script>if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function() {
+        navigator.serviceWorker.register('./service-worker.js')
+          .then(function(registration) {
+            console.log('[App] Service Worker registered, scope:', registration.scope);
+
+            // 监听更新
+            registration.addEventListener('updatefound', function() {
+              var newWorker = registration.installing;
+              if (newWorker) {
+                newWorker.addEventListener('statechange', function() {
+                  if (newWorker.state === 'activated') {
+                    console.log('[App] New Service Worker activated — cache updated');
+                  }
+                });
+              }
+            });
+          })
+          .catch(function(err) {
+            console.warn('[App] Service Worker registration failed:', err);
+          });
+      });
+    }</script></body></html>
