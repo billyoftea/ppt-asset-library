@@ -224,72 +224,112 @@ npm start
 
 ---
 
-## 🚀 部署到 GitHub Pages（支持离线使用）
+## 🚀 部署到 GitHub Pages
 
-本插件内置 **Service Worker 离线缓存**，部署后同事第一次联网使用，之后即使离线也能正常工作。
+本插件托管在 GitHub Pages 上，内置 **Service Worker 离线缓存**，第一次联网使用后离线也能正常工作。
 
-### 部署步骤
+### 发布/更新素材
 
 ```bash
-# 1. 在 GitHub 上创建仓库，关联远程
-git remote add origin https://github.com/your-username/ppt-asset-library.git
+# 设置 GitHub Pages URL
+export GITHUB_PAGES_URL="https://billyoftea.github.io/ppt-asset-library"
 
-# 2. 设置你的 GitHub Pages URL
-export GITHUB_PAGES_URL="https://your-username.github.io/ppt-asset-library"
-
-# 3. 一键部署
+# 一键构建并部署
 npm run deploy
 ```
 
-部署脚本会自动：
-- 构建生产版本
-- 将 `manifest-production.xml` 中的占位符替换为实际 URL
-- 推送 `dist/` 到 `gh-pages` 分支
-- 在项目根目录生成 `manifest-gh-pages.xml`（可直接发给同事）
+部署脚本会自动构建、生成 manifest、推送到 `gh-pages` 分支。
 
-### 手动部署
+---
 
-```bash
-# 构建
-npm run build
+## 📥 安装指南
 
-# 生成 manifest
-GITHUB_PAGES_URL="https://your-username.github.io/ppt-asset-library" node scripts/generate-manifest.js
+插件内容托管在 GitHub Pages，**manifest.xml 是唯一需要下载的文件**。
 
-# 部署 dist 目录到 gh-pages 分支
-npx gh-pages -d dist
+### 下载 manifest.xml
+
+浏览器打开以下地址，右键保存文件：
+
+```
+https://billyoftea.github.io/ppt-asset-library/manifest.xml
 ```
 
-### 同事如何使用
+---
 
-**方式一：网络共享（局域网内同事，推荐）：**
-1. 打开 PowerPoint → **文件** → **选项** → **信任中心** → **信任中心设置**
-2. 左侧选 **「受信任的加载项目录」**
-3. 在 **「目录 URL」** 中填入服务器共享路径，例如：
+### Windows 安装
+
+1. 在「文档」目录下新建一个文件夹，例如：
+
    ```
-   \\LAPTOP-1MVV1RA5\add-in
+   C:\Users\你的用户名\Documents\OfficeAddins
    ```
-4. 点击 **「添加目录」** → 勾选 **「显示在菜单中」** → 确定
-5. **重启 PowerPoint** → **插入** → **获取加载项** → **共享文件夹** 选项卡
-6. 找到 **「PPT Asset Library」** → 点击添加 → 完成！🎉
 
-**方式二：手动侧载（不在局域网的同事）：**
-1. 获取 `manifest-gh-pages.xml` 文件
-2. **Windows**：放到本地文件夹（如 `C:\Users\你的用户名\Documents\OfficeAddins`），然后在信任中心添加该文件夹路径
-3. **Mac**：复制到 `~/Library/Containers/com.microsoft.Powerpoint/Data/Documents/wef/`
-4. 重启 PowerPoint → 在加载项中找到插件
+2. 将下载的 `manifest.xml` 放进这个文件夹
 
-> 详细步骤请参考 [同事安装指南.md](同事安装指南.md)
->
-> ⚡ 第一次打开需要联网（Service Worker 会自动缓存所有资源），**之后离线也能正常使用** ✅
+3. 打开 PowerPoint → **文件** → **选项** → **信任中心** → **信任中心设置**
+
+4. 左侧选择 **「受信任的加载项目录」**
+
+5. 在 **「目录 URL」** 中填入刚才的文件夹路径：
+
+   ```
+   C:\Users\你的用户名\Documents\OfficeAddins
+   ```
+
+6. 点击 **「添加目录」** → 勾选 ✅ **「显示在菜单中」** → 确定 → 确定
+
+7. **完全关闭 PowerPoint 并重新打开**（必须重启！）
+
+8. 打开任意 PPT → **插入** → **获取加载项** → **共享文件夹** 选项卡
+
+9. 找到 **「PPT Asset Library」** → 点击 **「添加」** 🎉
+
+---
+
+### Mac 安装
+
+1. 打开 **访达（Finder）**
+
+2. 按 **Command + Shift + G**（前往文件夹）
+
+3. 粘贴以下路径，点击「前往」：
+
+   ```
+   ~/Library/Containers/com.microsoft.Powerpoint/Data/Documents/wef
+   ```
+
+4. 如果 `wef` 文件夹不存在，就**新建一个**叫 `wef` 的文件夹
+
+5. 将下载的 `manifest.xml` 放进 `wef` 文件夹
+
+6. **Command + Q** 完全退出 PowerPoint
+
+7. 重新打开 PowerPoint，打开任意 PPT
+
+8. **插入** → **加载项** 下拉 ▼ → **我的加载项** → **开发人员加载项**
+
+9. 找到 **「PPT Asset Library」** 🎉
+
+---
+
+### 素材更新
+
+- 素材由管理员更新并发布到 GitHub Pages
+- **你不需要重新下载 manifest.xml**，插件内容会自动从服务器加载最新版本
+- 如果需要强制刷新，点击插件标题栏右侧的 🔄 **刷新按钮**即可
+- 首次使用需联网，之后支持离线使用（自动缓存）
+
+---
 
 ### 离线缓存机制
 
-- **技术方案**：Service Worker + Cache API
-- **缓存策略**：Cache First, Network Fallback
-- **预缓存内容**：`taskpane.html`、`taskpane.bundle.js`、`assetIndex.json`、`slideIds.json`、`bundle.pptx`
-- **运行时缓存**：所有缩略图在首次加载时自动缓存
-- **更新机制**：有网络时后台静默更新缓存（Stale While Revalidate）
+| 项目 | 说明 |
+|------|------|
+| **技术方案** | Service Worker + Cache API |
+| **缓存策略** | Cache First + 后台静默更新 |
+| **预缓存内容** | taskpane.html、JS、assetIndex.json、slideIds.json、bundle.pptx |
+| **运行时缓存** | 所有缩略图在首次加载时自动缓存 |
+| **手动刷新** | 点击插件内 🔄 按钮，强制清除并重新下载所有资源 |
 
 ---
 
