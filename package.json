@@ -1,0 +1,52 @@
+{
+  "name": "ppt-asset-library",
+  "version": "1.0.0",
+  "description": "PPT 素材库 Office Add-in 插件 - 在 PowerPoint 侧边栏中浏览、搜索并一键插入 500+ 图形素材",
+  "main": "src/taskpane/index.tsx",
+  "scripts": {
+    "build": "webpack --mode production",
+    "build:dev": "webpack --mode development",
+    "dev-server": "webpack serve --mode development",
+    "start": "webpack serve --mode development",
+    "start:desktop": "office-addin-debugging start manifest.xml",
+    "stop": "office-addin-debugging stop manifest.xml",
+    "sideload": "office-addin-dev-settings sideload manifest.xml",
+    "unload": "office-addin-dev-settings clear manifest.xml",
+    "validate": "office-addin-manifest validate manifest.xml",
+    "lint": "eslint src --ext .ts,.tsx",
+    "type-check": "tsc --noEmit",
+    "deploy": "bash scripts/deploy-gh-pages.sh",
+    "deploy:build": "npm run build && node scripts/generate-manifest.js"
+  },
+  "dependencies": {
+    "@fluentui/react-components": "^9.54.0",
+    "@fluentui/react-icons": "^2.0.320",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/office-js": "^1.0.421",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@typescript-eslint/eslint-plugin": "^7.18.0",
+    "@typescript-eslint/parser": "^7.18.0",
+    "copy-webpack-plugin": "^12.0.2",
+    "css-loader": "^7.1.2",
+    "eslint": "^8.57.1",
+    "eslint-plugin-react": "^7.37.2",
+    "html-webpack-plugin": "^5.6.3",
+    "office-addin-debugging": "^6.0.6",
+    "office-addin-dev-certs": "^2.0.6",
+    "source-map-loader": "^5.0.0",
+    "style-loader": "^4.0.0",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.6.3",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.1.0"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "ie 11"
+  ]
+}

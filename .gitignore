@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.log
+.DS_Store
+manifest-gh-pages.xml
+.env
+
+# 大文件 — 不提交到 git
+unpacked/
+腾讯ppt模板/
+Graphics, elements, and icon's – 500+.pptx
+assets/bundle_original_pwc.pptx
