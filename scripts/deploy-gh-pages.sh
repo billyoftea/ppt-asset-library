@@ -37,20 +37,30 @@ GITHUB_PAGES_URL="${GITHUB_PAGES_URL%/}"
 echo -e "${YELLOW}📦 GitHub Pages URL: ${GITHUB_PAGES_URL}${NC}"
 
 # 1. 构建生产版本
-echo -e "\n${GREEN}[1/4] 构建生产版本...${NC}"
+echo -e "\n${GREEN}[1/5] 构建生产版本...${NC}"
 npm run build
 
-# 2. 生成 manifest.xml (替换占位符)
-echo -e "\n${GREEN}[2/4] 生成生产环境 manifest.xml...${NC}"
+# 2. 生成 manifest.xml (替换占位符) 并放入 dist 根目录
+echo -e "\n${GREEN}[2/5] 生成生产环境 manifest.xml...${NC}"
 sed "s|{{GITHUB_PAGES_URL}}|${GITHUB_PAGES_URL}|g" manifest-production.xml > dist/manifest.xml
-echo "   ✅ manifest.xml 已生成到 dist/"
+echo "   ✅ manifest.xml 已生成到 dist/（将随 GitHub Pages 一起部署）"
 
 # 同时复制一份到项目根目录方便分发
 cp dist/manifest.xml manifest-gh-pages.xml
-echo "   ✅ manifest-gh-pages.xml 已复制到项目根目录（可直接发给同事）"
+echo "   ✅ manifest-gh-pages.xml 已复制到项目根目录"
 
-# 3. 部署 dist 到 gh-pages 分支
-echo -e "\n${GREEN}[3/4] 推送 dist/ 到 gh-pages 分支...${NC}"
+# 3. 验证 manifest.xml 可通过 URL 访问
+echo -e "\n${GREEN}[3/5] 验证部署结构...${NC}"
+if [ -f "dist/manifest.xml" ] && [ -f "dist/taskpane.html" ]; then
+  echo "   ✅ dist/manifest.xml   — 同事在信任中心填入 ${GITHUB_PAGES_URL}/ 即可发现插件"
+  echo "   ✅ dist/taskpane.html  — 插件 UI 页面"
+else
+  echo -e "${RED}   ❌ 部署文件不完整，请检查构建${NC}"
+  exit 1
+fi
+
+# 4. 部署 dist 到 gh-pages 分支
+echo -e "\n${GREEN}[4/5] 推送 dist/ 到 gh-pages 分支...${NC}"
 
 # 检查是否安装了 gh-pages 工具
 if ! npx --no-install gh-pages --version &>/dev/null; then
@@ -60,15 +70,23 @@ fi
 
 npx gh-pages -d dist
 
-echo -e "\n${GREEN}[4/4] ✅ 部署完成！${NC}"
+echo -e "\n${GREEN}[5/5] ✅ 部署完成！${NC}"
 echo ""
-echo "================================================="
+echo "============================================================"
 echo -e "${GREEN}🎉 插件已部署到: ${GITHUB_PAGES_URL}${NC}"
-echo "================================================="
+echo "============================================================"
 echo ""
-echo "📋 接下来："
-echo "   1. 把 manifest-gh-pages.xml 发给同事"
-echo "   2. 同事在 PowerPoint 中: 插入 → 获取加载项 → 上传我的加载项 → 选择 manifest-gh-pages.xml"
-echo "   3. 第一次打开插件需要联网（自动缓存所有资源）"
-echo "   4. 之后即使离线也能正常使用 ✅"
+echo "📋 同事安装方法（超简单，无需下载任何文件）："
+echo ""
+echo "   1. 打开 PowerPoint → 文件 → 选项 → 信任中心 → 信任中心设置"
+echo "   2. 左侧选「受信任的加载项目录」"
+echo "   3. 在「目录 URL」中填入："
+echo ""
+echo "      ${GITHUB_PAGES_URL}/"
+echo ""
+echo "   4. 点击「添加目录」→ 勾选「显示在菜单中」→ 确定 → 确定"
+echo "   5. 重启 PowerPoint → 插入 → 获取加载项 → 共享文件夹"
+echo "   6. 找到「PPT Asset Library」→ 点击添加 → 完成！🎉"
+echo ""
+echo "   ⚡ 第一次打开需要联网（自动缓存），之后离线也能用"
 echo ""

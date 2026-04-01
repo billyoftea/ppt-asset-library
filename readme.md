@@ -262,12 +262,26 @@ npx gh-pages -d dist
 
 ### 同事如何使用
 
-1. 收到你发的 `manifest-gh-pages.xml` 文件
-2. 打开 PowerPoint → **插入** → **获取加载项** → **上传我的加载项**
-3. 选择 `manifest-gh-pages.xml` 文件
-4. 点击 Ribbon 栏中的 **Asset Library** 按钮
-5. **第一次打开需要联网**（Service Worker 会自动缓存所有资源）
-6. **之后离线也能正常使用** ✅
+**方式一：网络共享（局域网内同事，推荐）：**
+1. 打开 PowerPoint → **文件** → **选项** → **信任中心** → **信任中心设置**
+2. 左侧选 **「受信任的加载项目录」**
+3. 在 **「目录 URL」** 中填入服务器共享路径，例如：
+   ```
+   \\LAPTOP-1MVV1RA5\add-in
+   ```
+4. 点击 **「添加目录」** → 勾选 **「显示在菜单中」** → 确定
+5. **重启 PowerPoint** → **插入** → **获取加载项** → **共享文件夹** 选项卡
+6. 找到 **「PPT Asset Library」** → 点击添加 → 完成！🎉
+
+**方式二：手动侧载（不在局域网的同事）：**
+1. 获取 `manifest-gh-pages.xml` 文件
+2. **Windows**：放到本地文件夹（如 `C:\Users\你的用户名\Documents\OfficeAddins`），然后在信任中心添加该文件夹路径
+3. **Mac**：复制到 `~/Library/Containers/com.microsoft.Powerpoint/Data/Documents/wef/`
+4. 重启 PowerPoint → 在加载项中找到插件
+
+> 详细步骤请参考 [同事安装指南.md](同事安装指南.md)
+>
+> ⚡ 第一次打开需要联网（Service Worker 会自动缓存所有资源），**之后离线也能正常使用** ✅
 
 ### 离线缓存机制
 
