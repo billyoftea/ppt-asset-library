@@ -1,36 +1,46 @@
 {
   "version": "3.0",
-  "totalAssets": 89,
+  "totalAssets": 187,
   "categories": [
     {
       "id": "arrows",
       "name": "Arrows",
-      "count": 5
+      "count": 11
     },
     {
       "id": "circular-diagrams",
       "name": "Circular Diagrams",
-      "count": 11
+      "count": 48
+    },
+    {
+      "id": "icons",
+      "name": "Icons",
+      "count": 1
     },
     {
       "id": "maps",
       "name": "Maps",
-      "count": 2
+      "count": 18
     },
     {
       "id": "org-charts",
       "name": "Org Charts",
-      "count": 2
+      "count": 28
     },
     {
       "id": "other-shapes",
       "name": "Other Shapes",
-      "count": 15
+      "count": 19
     },
     {
       "id": "process-charts",
       "name": "Process Charts",
-      "count": 38
+      "count": 43
+    },
+    {
+      "id": "tables",
+      "name": "Tables",
+      "count": 3
     },
     {
       "id": "timelines",
@@ -54,7 +64,7 @@
       ],
       "thumb": "assets/thumbnails/slide_103.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_104",
@@ -73,7 +83,7 @@
       ],
       "thumb": "assets/thumbnails/slide_104.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_105",
@@ -89,7 +99,7 @@
       ],
       "thumb": "assets/thumbnails/slide_105.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_106",
@@ -117,7 +127,7 @@
       ],
       "thumb": "assets/thumbnails/slide_106.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_107",
@@ -144,7 +154,7 @@
       ],
       "thumb": "assets/thumbnails/slide_107.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_108",
@@ -159,7 +169,7 @@
       "kw": [],
       "thumb": "assets/thumbnails/slide_108.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_109",
@@ -176,7 +186,7 @@
       ],
       "thumb": "assets/thumbnails/slide_109.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_110",
@@ -193,7 +203,7 @@
       ],
       "thumb": "assets/thumbnails/slide_110.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_111",
@@ -210,7 +220,7 @@
       ],
       "thumb": "assets/thumbnails/slide_111.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_112",
@@ -224,7 +234,7 @@
       "kw": [],
       "thumb": "assets/thumbnails/slide_112.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_113",
@@ -250,7 +260,7 @@
       ],
       "thumb": "assets/thumbnails/slide_113.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_114",
@@ -264,7 +274,7 @@
       "kw": [],
       "thumb": "assets/thumbnails/slide_114.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_115",
@@ -282,7 +292,7 @@
       ],
       "thumb": "assets/thumbnails/slide_115.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_116",
@@ -310,7 +320,7 @@
       ],
       "thumb": "assets/thumbnails/slide_116.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_117",
@@ -324,7 +334,7 @@
       "kw": [],
       "thumb": "assets/thumbnails/slide_117.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_118",
@@ -353,7 +363,7 @@
       ],
       "thumb": "assets/thumbnails/slide_118.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_119",
@@ -380,7 +390,7 @@
       ],
       "thumb": "assets/thumbnails/slide_119.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_120",
@@ -390,7 +400,7 @@
       "sub": "Jigsaw puzzle pieces",
       "thumb": "assets/thumbnails/slide_120.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_121",
@@ -400,7 +410,7 @@
       "sub": "imelines",
       "thumb": "assets/thumbnails/slide_121.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_122",
@@ -428,7 +438,7 @@
       ],
       "thumb": "assets/thumbnails/slide_122.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_123",
@@ -449,7 +459,7 @@
       ],
       "thumb": "assets/thumbnails/slide_123.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_124",
@@ -476,7 +486,7 @@
       ],
       "thumb": "assets/thumbnails/slide_124.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_125",
@@ -486,7 +496,7 @@
       "sub": "Process Charts",
       "thumb": "assets/thumbnails/slide_125.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_126",
@@ -516,7 +526,7 @@
       ],
       "thumb": "assets/thumbnails/slide_126.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_127",
@@ -545,7 +555,7 @@
       ],
       "thumb": "assets/thumbnails/slide_127.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_128",
@@ -574,7 +584,7 @@
       ],
       "thumb": "assets/thumbnails/slide_128.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_129",
@@ -591,7 +601,7 @@
       ],
       "thumb": "assets/thumbnails/slide_129.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_130",
@@ -610,7 +620,7 @@
       ],
       "thumb": "assets/thumbnails/slide_130.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_131",
@@ -624,7 +634,7 @@
       "kw": [],
       "thumb": "assets/thumbnails/slide_131.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_132",
@@ -653,7 +663,7 @@
       ],
       "thumb": "assets/thumbnails/slide_132.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_133",
@@ -668,7 +678,7 @@
       "kw": [],
       "thumb": "assets/thumbnails/slide_133.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_134",
@@ -696,7 +706,7 @@
       ],
       "thumb": "assets/thumbnails/slide_134.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_135",
@@ -710,7 +720,7 @@
       "kw": [],
       "thumb": "assets/thumbnails/slide_135.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_136",
@@ -727,7 +737,7 @@
       ],
       "thumb": "assets/thumbnails/slide_136.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_137",
@@ -756,7 +766,7 @@
       ],
       "thumb": "assets/thumbnails/slide_137.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_138",
@@ -784,7 +794,7 @@
       ],
       "thumb": "assets/thumbnails/slide_138.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_139",
@@ -812,7 +822,7 @@
       ],
       "thumb": "assets/thumbnails/slide_139.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_140",
@@ -821,7 +831,7 @@
       "cat": "Process Charts",
       "thumb": "assets/thumbnails/slide_140.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_141",
@@ -844,7 +854,7 @@
       ],
       "thumb": "assets/thumbnails/slide_141.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_142",
@@ -873,7 +883,7 @@
       ],
       "thumb": "assets/thumbnails/slide_142.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_143",
@@ -891,7 +901,7 @@
       ],
       "thumb": "assets/thumbnails/slide_143.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_144",
@@ -920,7 +930,7 @@
       ],
       "thumb": "assets/thumbnails/slide_144.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_145",
@@ -948,7 +958,7 @@
       ],
       "thumb": "assets/thumbnails/slide_145.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_146",
@@ -994,7 +1004,7 @@
       ],
       "thumb": "assets/thumbnails/slide_147.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_148",
@@ -1008,7 +1018,7 @@
       "kw": [],
       "thumb": "assets/thumbnails/slide_148.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_149",
@@ -1031,7 +1041,7 @@
       ],
       "thumb": "assets/thumbnails/slide_149.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_150",
@@ -1055,7 +1065,7 @@
       ],
       "thumb": "assets/thumbnails/slide_150.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_151",
@@ -1078,7 +1088,7 @@
       ],
       "thumb": "assets/thumbnails/slide_151.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_152",
@@ -1095,7 +1105,7 @@
       ],
       "thumb": "assets/thumbnails/slide_152.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_153",
@@ -1120,7 +1130,7 @@
       ],
       "thumb": "assets/thumbnails/slide_153.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_154",
@@ -1134,7 +1144,7 @@
       "kw": [],
       "thumb": "assets/thumbnails/slide_154.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_155",
@@ -1163,7 +1173,7 @@
       ],
       "thumb": "assets/thumbnails/slide_155.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_156",
@@ -1192,7 +1202,7 @@
       ],
       "thumb": "assets/thumbnails/slide_156.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_157",
@@ -1202,7 +1212,7 @@
       "sub": "Maze",
       "thumb": "assets/thumbnails/slide_157.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_158",
@@ -1218,7 +1228,7 @@
       ],
       "thumb": "assets/thumbnails/slide_158.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_159",
@@ -1234,7 +1244,7 @@
       ],
       "thumb": "assets/thumbnails/slide_159.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_160",
@@ -1253,7 +1263,7 @@
       ],
       "thumb": "assets/thumbnails/slide_160.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_161",
@@ -1267,7 +1277,7 @@
       "kw": [],
       "thumb": "assets/thumbnails/slide_161.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_162",
@@ -1297,7 +1307,7 @@
       ],
       "thumb": "assets/thumbnails/slide_162.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_163",
@@ -1326,7 +1336,7 @@
       ],
       "thumb": "assets/thumbnails/slide_163.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_164",
@@ -1340,7 +1350,7 @@
       "kw": [],
       "thumb": "assets/thumbnails/slide_164.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_165",
@@ -1370,7 +1380,7 @@
       ],
       "thumb": "assets/thumbnails/slide_165.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_166",
@@ -1385,7 +1395,7 @@
       ],
       "thumb": "assets/thumbnails/slide_166.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_167",
@@ -1410,7 +1420,7 @@
       ],
       "thumb": "assets/thumbnails/slide_167.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_168",
@@ -1440,7 +1450,7 @@
       ],
       "thumb": "assets/thumbnails/slide_168.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_169",
@@ -1459,7 +1469,7 @@
       "kw": [],
       "thumb": "assets/thumbnails/slide_169.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_170",
@@ -1487,7 +1497,7 @@
       ],
       "thumb": "assets/thumbnails/slide_170.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_171",
@@ -1507,7 +1517,7 @@
       ],
       "thumb": "assets/thumbnails/slide_171.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_172",
@@ -1522,7 +1532,7 @@
       ],
       "thumb": "assets/thumbnails/slide_172.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_173",
@@ -1542,7 +1552,7 @@
       ],
       "thumb": "assets/thumbnails/slide_173.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_174",
@@ -1570,7 +1580,7 @@
       ],
       "thumb": "assets/thumbnails/slide_174.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_175",
@@ -1591,7 +1601,7 @@
       ],
       "thumb": "assets/thumbnails/slide_175.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_176",
@@ -1618,7 +1628,7 @@
       ],
       "thumb": "assets/thumbnails/slide_176.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_177",
@@ -1646,7 +1656,7 @@
       ],
       "thumb": "assets/thumbnails/slide_177.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_178",
@@ -1668,7 +1678,7 @@
       ],
       "thumb": "assets/thumbnails/slide_178.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_179",
@@ -1717,7 +1727,7 @@
       ],
       "thumb": "assets/thumbnails/slide_180.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_181",
@@ -1734,7 +1744,7 @@
       ],
       "thumb": "assets/thumbnails/slide_181.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_182",
@@ -1752,7 +1762,7 @@
       ],
       "thumb": "assets/thumbnails/slide_182.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_183",
@@ -1766,7 +1776,7 @@
       "kw": [],
       "thumb": "assets/thumbnails/slide_183.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_184",
@@ -1780,7 +1790,7 @@
       "kw": [],
       "thumb": "assets/thumbnails/slide_184.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_185",
@@ -1809,7 +1819,7 @@
       ],
       "thumb": "assets/thumbnails/slide_185.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_186",
@@ -1838,7 +1848,7 @@
       ],
       "thumb": "assets/thumbnails/slide_186.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_187",
@@ -1867,7 +1877,7 @@
       ],
       "thumb": "assets/thumbnails/slide_187.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_188",
@@ -1885,7 +1895,7 @@
       ],
       "thumb": "assets/thumbnails/slide_188.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_189",
@@ -1900,7 +1910,7 @@
       ],
       "thumb": "assets/thumbnails/slide_189.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_190",
@@ -1914,7 +1924,7 @@
       "kw": [],
       "thumb": "assets/thumbnails/slide_190.png",
       "type": "slide",
-      "img": false
+      "img": true
     },
     {
       "id": "slide_191",
@@ -1931,7 +1941,2167 @@
       ],
       "thumb": "assets/thumbnails/slide_191.png",
       "type": "slide",
-      "img": false
+      "img": true
+    },
+    {
+      "id": "slide_192",
+      "sn": 192,
+      "t": "Arrows\u000bSquare arrows",
+      "cat": "Arrows",
+      "tags": [
+        "Arrows\u000bSquare arrows"
+      ],
+      "kw": [
+        "arrows",
+        "square"
+      ],
+      "thumb": "assets/thumbnails/slide_192.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_193",
+      "sn": 193,
+      "t": "Arrows\u000bSquare",
+      "cat": "Arrows",
+      "tags": [
+        "Arrows\u000bSquare",
+        "Second step",
+        "Fourth step"
+      ],
+      "kw": [
+        "arrows",
+        "fourth",
+        "second",
+        "square",
+        "step"
+      ],
+      "thumb": "assets/thumbnails/slide_193.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_194",
+      "sn": 194,
+      "t": "Arrows\u000bSquare",
+      "cat": "Arrows",
+      "tags": [
+        "Arrows\u000bSquare",
+        "Heading"
+      ],
+      "kw": [
+        "arrows",
+        "heading",
+        "square"
+      ],
+      "thumb": "assets/thumbnails/slide_194.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_195",
+      "sn": 195,
+      "t": "Directional",
+      "cat": "Arrows",
+      "tags": [
+        "Directional",
+        "Accessibility to network of seasoned data professionals",
+        "Variable labor and cost model (scaled back as necessary)"
+      ],
+      "kw": [
+        "accessibility",
+        "arrows",
+        "as",
+        "back",
+        "cost",
+        "data",
+        "directional",
+        "labor",
+        "model",
+        "necessary"
+      ],
+      "thumb": "assets/thumbnails/slide_195.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_196",
+      "sn": 196,
+      "t": "Arros",
+      "cat": "Arrows",
+      "sub": "Primary Drivers",
+      "tags": [
+        "Arros",
+        "Primary Drivers",
+        "Privacy & Security Capabilities",
+        "Security Operations (Including Web Portals)",
+        "Threat Intelligence & Vulnerability Management"
+      ],
+      "kw": [
+        "arros",
+        "arrows",
+        "capabilities",
+        "drivers",
+        "including",
+        "intelligence",
+        "management",
+        "operations",
+        "portals",
+        "primary"
+      ],
+      "thumb": "assets/thumbnails/slide_196.png",
+      "type": "slide",
+      "img": true
+    },
+    {
+      "id": "slide_197",
+      "sn": 197,
+      "t": "Directional Arrows",
+      "cat": "Arrows",
+      "tags": [
+        "Directional Arrows"
+      ],
+      "kw": [
+        "arrows",
+        "directional"
+      ],
+      "thumb": "assets/thumbnails/slide_197.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_198",
+      "sn": 198,
+      "t": "Tables",
+      "cat": "Tables",
+      "sub": "Title of presentation",
+      "tags": [
+        "Tables",
+        "Title of presentation",
+        "Insert date here"
+      ],
+      "kw": [
+        "tables",
+        "title"
+      ],
+      "thumb": "assets/thumbnails/slide_198.png",
+      "type": "slide",
+      "img": true
+    },
+    {
+      "id": "slide_199",
+      "sn": 199,
+      "t": "Tables",
+      "cat": "Tables",
+      "sub": "Title of presentation",
+      "tags": [
+        "Tables",
+        "Title of presentation",
+        "Insert date here",
+        "Proven Data Sources"
+      ],
+      "kw": [
+        "data",
+        "proven",
+        "sources",
+        "tables",
+        "title"
+      ],
+      "thumb": "assets/thumbnails/slide_199.png",
+      "type": "slide",
+      "img": true
+    },
+    {
+      "id": "slide_200",
+      "sn": 200,
+      "t": "Circles",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circles"
+      ],
+      "kw": [
+        "circles",
+        "circular",
+        "diagrams"
+      ],
+      "thumb": "assets/thumbnails/slide_200.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_201",
+      "sn": 201,
+      "t": "Header",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Header",
+        "Header",
+        "Mauris consectetuer ullamcorper quam. Morbi tincidunt mi ut diam ultricies non, hendrerit",
+        "Header"
+      ],
+      "kw": [
+        "circular",
+        "consectetuer",
+        "diagrams",
+        "diam",
+        "hendrerit",
+        "mi",
+        "morbi",
+        "non",
+        "quam.",
+        "tincidunt"
+      ],
+      "thumb": "assets/thumbnails/slide_201.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_202",
+      "sn": 202,
+      "t": "Circular diagrams",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams",
+        "Technical support",
+        "Functions",
+        "Geographies"
+      ],
+      "kw": [
+        "circular",
+        "diagrams",
+        "functions",
+        "geographies",
+        "support",
+        "technical"
+      ],
+      "thumb": "assets/thumbnails/slide_202.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_203",
+      "sn": 203,
+      "t": "Circular diagrams",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams",
+        "Section title",
+        "Xxx",
+        "Xxx"
+      ],
+      "kw": [
+        "circular",
+        "diagrams",
+        "section",
+        "title"
+      ],
+      "thumb": "assets/thumbnails/slide_203.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_204",
+      "sn": 204,
+      "t": "Text",
+      "cat": "Circular Diagrams",
+      "sub": "Text",
+      "tags": [
+        "Text",
+        "Text",
+        "Text",
+        "Text",
+        "Circular diagrams"
+      ],
+      "kw": [
+        "circular",
+        "diagrams"
+      ],
+      "thumb": "assets/thumbnails/slide_204.png",
+      "type": "slide",
+      "img": true
+    },
+    {
+      "id": "slide_205",
+      "sn": 205,
+      "t": "Circular diagrams\u000bCycle",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams\u000bCycle"
+      ],
+      "kw": [
+        "circular",
+        "cycle",
+        "diagrams"
+      ],
+      "thumb": "assets/thumbnails/slide_205.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_206",
+      "sn": 206,
+      "t": "Circular diagrams",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams",
+        "Xxx",
+        "Xxx",
+        "Xxx"
+      ],
+      "kw": [
+        "circular",
+        "diagrams"
+      ],
+      "thumb": "assets/thumbnails/slide_206.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_207",
+      "sn": 207,
+      "t": "Circular diagrams",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams"
+      ],
+      "kw": [
+        "circular",
+        "diagrams"
+      ],
+      "thumb": "assets/thumbnails/slide_207.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_208",
+      "sn": 208,
+      "t": "Circular diagrams",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams"
+      ],
+      "kw": [
+        "circular",
+        "diagrams"
+      ],
+      "thumb": "assets/thumbnails/slide_208.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_209",
+      "sn": 209,
+      "t": "Circular diagrams\u000bPetals",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams\u000bPetals",
+        "Heading / Title",
+        "Heading / Title",
+        "Heading / Title"
+      ],
+      "kw": [
+        "circular",
+        "diagrams",
+        "heading",
+        "petals",
+        "title"
+      ],
+      "thumb": "assets/thumbnails/slide_209.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_210",
+      "sn": 210,
+      "t": "Circular diagrams\u000bPetals",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams\u000bPetals",
+        "xxx",
+        "xxx"
+      ],
+      "kw": [
+        "circular",
+        "diagrams",
+        "petals"
+      ],
+      "thumb": "assets/thumbnails/slide_210.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_211",
+      "sn": 211,
+      "t": "Circular diagrams\u000bCycles",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams\u000bCycles"
+      ],
+      "kw": [
+        "circular",
+        "cycles",
+        "diagrams"
+      ],
+      "thumb": "assets/thumbnails/slide_211.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_212",
+      "sn": 212,
+      "t": "Circular diagrams\u000bCycles",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams\u000bCycles"
+      ],
+      "kw": [
+        "circular",
+        "cycles",
+        "diagrams"
+      ],
+      "thumb": "assets/thumbnails/slide_212.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_213",
+      "sn": 213,
+      "t": "Circular diagrams\u000bCycles",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams\u000bCycles",
+        "Text text text",
+        "Text text text"
+      ],
+      "kw": [
+        "circular",
+        "cycles",
+        "diagrams"
+      ],
+      "thumb": "assets/thumbnails/slide_213.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_214",
+      "sn": 214,
+      "t": "Circular diagrams",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams",
+        "[ ]",
+        "[ ]",
+        "[ ]"
+      ],
+      "kw": [
+        "circular",
+        "diagrams"
+      ],
+      "thumb": "assets/thumbnails/slide_214.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_215",
+      "sn": 215,
+      "t": "Independent Senior Partner",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Independent Senior Partner",
+        "[Name surname]",
+        "Quality Review Partner",
+        "[Name surname]",
+        "Name"
+      ],
+      "kw": [
+        "[name",
+        "circular",
+        "diagrams",
+        "independent",
+        "partner",
+        "quality",
+        "review",
+        "senior",
+        "surname]"
+      ],
+      "thumb": "assets/thumbnails/slide_215.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_216",
+      "sn": 216,
+      "t": "Circular diagrams\u000bSections",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams\u000bSections"
+      ],
+      "kw": [
+        "circular",
+        "diagrams",
+        "sections"
+      ],
+      "thumb": "assets/thumbnails/slide_216.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_217",
+      "sn": 217,
+      "t": "Circular diagrams\u000bSections",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams\u000bSections",
+        "Text",
+        "Text",
+        "Text"
+      ],
+      "kw": [
+        "circular",
+        "diagrams",
+        "sections"
+      ],
+      "thumb": "assets/thumbnails/slide_217.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_218",
+      "sn": 218,
+      "t": "Circular diagrams\u000bSections",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams\u000bSections",
+        "myAppraisals",
+        "myDocuments",
+        "myTalent"
+      ],
+      "kw": [
+        "circular",
+        "diagrams",
+        "myappraisals",
+        "mydocuments",
+        "mytalent",
+        "sections"
+      ],
+      "thumb": "assets/thumbnails/slide_218.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_219",
+      "sn": 219,
+      "t": "Circular diagrams\u000bCycle",
+      "cat": "Circular Diagrams",
+      "sub": "text",
+      "tags": [
+        "Circular diagrams\u000bCycle",
+        "text",
+        "text",
+        "text",
+        "text"
+      ],
+      "kw": [
+        "circular",
+        "cycle",
+        "diagrams"
+      ],
+      "thumb": "assets/thumbnails/slide_219.png",
+      "type": "slide",
+      "img": true
+    },
+    {
+      "id": "slide_220",
+      "sn": 220,
+      "t": "Current state radar chart (illustrated measures)",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Current state radar chart (illustrated measures)",
+        "Education Quality",
+        "ZZZ",
+        "Eliminate Poverty"
+      ],
+      "kw": [
+        "chart",
+        "circular",
+        "current",
+        "diagrams",
+        "education",
+        "eliminate",
+        "illustrated",
+        "measures",
+        "poverty",
+        "quality"
+      ],
+      "thumb": "assets/thumbnails/slide_220.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_221",
+      "sn": 221,
+      "t": "Circular diagrams\u000bCycle",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams\u000bCycle",
+        "INSIGHT",
+        "SIMPLIFY",
+        "Quantitative and Qualitative analysis"
+      ],
+      "kw": [
+        "analysis",
+        "circular",
+        "cycle",
+        "diagrams",
+        "insight",
+        "qualitative",
+        "quantitative",
+        "simplify"
+      ],
+      "thumb": "assets/thumbnails/slide_221.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_222",
+      "sn": 222,
+      "t": "Circular diagrams\u000bHeat map",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams\u000bHeat map"
+      ],
+      "kw": [
+        "circular",
+        "diagrams",
+        "heat",
+        "map"
+      ],
+      "thumb": "assets/thumbnails/slide_222.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_223",
+      "sn": 223,
+      "t": "Circular diagrams\u000bCircular bar chart",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams\u000bCircular bar chart",
+        "Active chart – \u000bvalues can be changed"
+      ],
+      "kw": [
+        "active",
+        "bar",
+        "changed",
+        "chart",
+        "circular",
+        "diagrams",
+        "values"
+      ],
+      "thumb": "assets/thumbnails/slide_223.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_224",
+      "sn": 224,
+      "t": "Circular diagrams\u000bSections and percentages",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams\u000bSections and percentages",
+        "10%",
+        "20%",
+        "30%"
+      ],
+      "kw": [
+        "10%",
+        "20%",
+        "30%",
+        "circular",
+        "diagrams",
+        "percentages",
+        "sections"
+      ],
+      "thumb": "assets/thumbnails/slide_224.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_225",
+      "sn": 225,
+      "t": "Circular diagrams\u000bSections and percentages",
+      "cat": "Circular Diagrams",
+      "sub": "O",
+      "tags": [
+        "Circular diagrams\u000bSections and percentages"
+      ],
+      "kw": [
+        "circular",
+        "diagrams",
+        "percentages",
+        "sections"
+      ],
+      "thumb": "assets/thumbnails/slide_225.png",
+      "type": "slide",
+      "img": true
+    },
+    {
+      "id": "slide_226",
+      "sn": 226,
+      "t": "Circular diagrams\u000bSpeedometers",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams\u000bSpeedometers"
+      ],
+      "kw": [
+        "circular",
+        "diagrams",
+        "speedometers"
+      ],
+      "thumb": "assets/thumbnails/slide_226.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_227",
+      "sn": 227,
+      "t": "Circular diagrams\u000bSections and percentages",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams\u000bSections and percentages",
+        "Text",
+        "Text",
+        "Text"
+      ],
+      "kw": [
+        "circular",
+        "diagrams",
+        "percentages",
+        "sections"
+      ],
+      "thumb": "assets/thumbnails/slide_227.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_228",
+      "sn": 228,
+      "t": "Circular diagrams\u000bSections and percentages",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams\u000bSections and percentages",
+        "Heading/Title",
+        "20%: text",
+        "20%"
+      ],
+      "kw": [
+        "20%",
+        "20%:",
+        "circular",
+        "diagrams",
+        "heading",
+        "percentages",
+        "sections",
+        "title"
+      ],
+      "thumb": "assets/thumbnails/slide_228.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_229",
+      "sn": 229,
+      "t": "Circular diagrams\u000bSections and percentages",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams\u000bSections and percentages",
+        "Country",
+        "Country",
+        "Country"
+      ],
+      "kw": [
+        "circular",
+        "country",
+        "diagrams",
+        "percentages",
+        "sections"
+      ],
+      "thumb": "assets/thumbnails/slide_229.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_230",
+      "sn": 230,
+      "t": "Circular diagrams\u000bSections and percentages",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams\u000bSections and percentages",
+        "Text 9.4",
+        "Results",
+        "Active chart – \u000bvalues can be changed"
+      ],
+      "kw": [
+        "9.4",
+        "active",
+        "changed",
+        "chart",
+        "circular",
+        "diagrams",
+        "percentages",
+        "results",
+        "sections",
+        "values"
+      ],
+      "thumb": "assets/thumbnails/slide_230.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_231",
+      "sn": 231,
+      "t": "Circular diagrams\u000bSections and percentages",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams\u000bSections and percentages",
+        "xxx"
+      ],
+      "kw": [
+        "circular",
+        "diagrams",
+        "percentages",
+        "sections"
+      ],
+      "thumb": "assets/thumbnails/slide_231.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_232",
+      "sn": 232,
+      "t": "Circular diagrams\u000bRadar screen",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams\u000bRadar screen"
+      ],
+      "kw": [
+        "circular",
+        "diagrams",
+        "radar",
+        "screen"
+      ],
+      "thumb": "assets/thumbnails/slide_232.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_233",
+      "sn": 233,
+      "t": "Circular diagrams\u000bHub and spoke",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Circular diagrams\u000bHub and spoke",
+        "Business",
+        "People",
+        "Programme/Project"
+      ],
+      "kw": [
+        "business",
+        "circular",
+        "diagrams",
+        "hub",
+        "people",
+        "programme",
+        "project",
+        "spoke"
+      ],
+      "thumb": "assets/thumbnails/slide_233.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_234",
+      "sn": 234,
+      "t": "Quadrant",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Quadrant"
+      ],
+      "kw": [
+        "circular",
+        "diagrams",
+        "quadrant"
+      ],
+      "thumb": "assets/thumbnails/slide_234.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_235",
+      "sn": 235,
+      "t": "Other shapes\u000bPyramid",
+      "cat": "Other Shapes",
+      "tags": [
+        "Other shapes\u000bPyramid",
+        "Constructed from triangles",
+        "Constructed from trapezoids"
+      ],
+      "kw": [
+        "constructed",
+        "other",
+        "pyramid",
+        "shapes",
+        "trapezoids",
+        "triangles"
+      ],
+      "thumb": "assets/thumbnails/slide_235.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_236",
+      "sn": 236,
+      "t": "Other shapes\u000bPyramid",
+      "cat": "Other Shapes",
+      "tags": [
+        "Other shapes\u000bPyramid",
+        "Basic corporate governance model"
+      ],
+      "kw": [
+        "basic",
+        "corporate",
+        "governance",
+        "model",
+        "other",
+        "pyramid",
+        "shapes"
+      ],
+      "thumb": "assets/thumbnails/slide_236.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_237",
+      "sn": 237,
+      "t": "Other shapes\u000bPyramid",
+      "cat": "Other Shapes",
+      "tags": [
+        "Other shapes\u000bPyramid",
+        "Assessing current governance, risk management and control",
+        "Assessing future governance, risk management and control",
+        "Efficiency gains"
+      ],
+      "kw": [
+        "assessing",
+        "control",
+        "current",
+        "efficiency",
+        "future",
+        "gains",
+        "governance",
+        "management",
+        "other",
+        "pyramid"
+      ],
+      "thumb": "assets/thumbnails/slide_237.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_238",
+      "sn": 238,
+      "t": "Triangle Design",
+      "cat": "Circular Diagrams",
+      "sub": "Data-analyse",
+      "tags": [
+        "Triangle Design",
+        "Data-analyse",
+        "Financiële transacties en business performance",
+        "Monitoring en",
+        "handmatige controls"
+      ],
+      "kw": [
+        "analyse",
+        "business",
+        "circular",
+        "controls",
+        "data",
+        "design",
+        "diagrams",
+        "en",
+        "financiële",
+        "handmatige"
+      ],
+      "thumb": "assets/thumbnails/slide_238.png",
+      "type": "slide",
+      "img": true
+    },
+    {
+      "id": "slide_239",
+      "sn": 239,
+      "t": "Other shapes\u000bSquare and hexagon",
+      "cat": "Other Shapes",
+      "tags": [
+        "Other shapes\u000bSquare and hexagon",
+        "Text",
+        "Text"
+      ],
+      "kw": [
+        "hexagon",
+        "other",
+        "shapes",
+        "square"
+      ],
+      "thumb": "assets/thumbnails/slide_239.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_240",
+      "sn": 240,
+      "t": "Hexagon Section Tracker",
+      "cat": "Circular Diagrams",
+      "tags": [
+        "Hexagon Section Tracker"
+      ],
+      "kw": [
+        "circular",
+        "diagrams",
+        "hexagon",
+        "section",
+        "tracker"
+      ],
+      "thumb": "assets/thumbnails/slide_240.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_241",
+      "sn": 241,
+      "t": "Map with contacts",
+      "cat": "Maps",
+      "tags": [
+        "Map with contacts"
+      ],
+      "kw": [
+        "contacts",
+        "map",
+        "maps"
+      ],
+      "thumb": "assets/thumbnails/slide_241.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_242",
+      "sn": 242,
+      "t": "Map\u000bWorld map with Atlantic Ocean in the centre",
+      "cat": "Maps",
+      "tags": [
+        "Map\u000bWorld map with Atlantic Ocean in the centre"
+      ],
+      "kw": [
+        "atlantic",
+        "centre",
+        "map",
+        "maps",
+        "ocean",
+        "world"
+      ],
+      "thumb": "assets/thumbnails/slide_242.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_243",
+      "sn": 243,
+      "t": "Map\u000bWorld map with European countries enlarged for ease of reference",
+      "cat": "Maps",
+      "tags": [
+        "Map\u000bWorld map with European countries enlarged for ease of reference"
+      ],
+      "kw": [
+        "countries",
+        "ease",
+        "enlarged",
+        "european",
+        "map",
+        "maps",
+        "reference",
+        "world"
+      ],
+      "thumb": "assets/thumbnails/slide_243.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_244",
+      "sn": 244,
+      "t": "Map\u000bWorld map with Pacific Ocean in the centre",
+      "cat": "Maps",
+      "tags": [
+        "Map\u000bWorld map with Pacific Ocean in the centre"
+      ],
+      "kw": [
+        "centre",
+        "map",
+        "maps",
+        "ocean",
+        "pacific",
+        "world"
+      ],
+      "thumb": "assets/thumbnails/slide_244.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_245",
+      "sn": 245,
+      "t": "Map\u000bPwC territory sites - world coverage (as of August 2012)",
+      "cat": "Maps",
+      "tags": [
+        "Map\u000bPwC territory sites - world coverage (as of August 2012)",
+        "Source: http://www.pwc.com/gx/en/office-locations/index.jhtml"
+      ],
+      "kw": [
+        "as",
+        "august",
+        "coverage",
+        "en",
+        "gx",
+        "http:",
+        "index.jhtml",
+        "locations",
+        "map",
+        "maps"
+      ],
+      "thumb": "assets/thumbnails/slide_245.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_246",
+      "sn": 246,
+      "t": "Map\u000bPwC territory sites - Europe (as of August 2012)",
+      "cat": "Maps",
+      "tags": [
+        "Map\u000bPwC territory sites - Europe (as of August 2012)",
+        "Source: http://www.pwc.com/gx/en/office-locations/index.jhtml"
+      ],
+      "kw": [
+        "as",
+        "august",
+        "en",
+        "europe",
+        "gx",
+        "http:",
+        "index.jhtml",
+        "locations",
+        "map",
+        "maps"
+      ],
+      "thumb": "assets/thumbnails/slide_246.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_247",
+      "sn": 247,
+      "t": "Map\u000bPwC territory sites - Americas (as of August 2012)",
+      "cat": "Maps",
+      "tags": [
+        "Map\u000bPwC territory sites - Americas (as of August 2012)",
+        "Source: http://www.pwc.com/gx/en/office-locations/index.jhtml"
+      ],
+      "kw": [
+        "americas",
+        "as",
+        "august",
+        "en",
+        "gx",
+        "http:",
+        "index.jhtml",
+        "locations",
+        "map",
+        "maps"
+      ],
+      "thumb": "assets/thumbnails/slide_247.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_248",
+      "sn": 248,
+      "t": "Map\u000bPwC territory sites – Asia Pacific (as of August 2012)",
+      "cat": "Maps",
+      "tags": [
+        "Map\u000bPwC territory sites – Asia Pacific (as of August 2012)",
+        "Source: http://www.pwc.com/gx/en/office-locations/index.jhtml"
+      ],
+      "kw": [
+        "as",
+        "asia",
+        "august",
+        "en",
+        "gx",
+        "http:",
+        "index.jhtml",
+        "locations",
+        "map",
+        "maps"
+      ],
+      "thumb": "assets/thumbnails/slide_248.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_249",
+      "sn": 249,
+      "t": "Map\u000bPwC territory sites – Middle East (as of August 2012)",
+      "cat": "Maps",
+      "tags": [
+        "Map\u000bPwC territory sites – Middle East (as of August 2012)",
+        "Source: http://www.pwc.com/gx/en/office-locations/index.jhtml"
+      ],
+      "kw": [
+        "as",
+        "august",
+        "east",
+        "en",
+        "gx",
+        "http:",
+        "index.jhtml",
+        "locations",
+        "map",
+        "maps"
+      ],
+      "thumb": "assets/thumbnails/slide_249.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_250",
+      "sn": 250,
+      "t": "Map\u000bPwC territory sites - Africa (as of August 2012)",
+      "cat": "Maps",
+      "tags": [
+        "Map\u000bPwC territory sites - Africa (as of August 2012)",
+        "Source: http://www.pwc.com/gx/en/office-locations/index.jhtml"
+      ],
+      "kw": [
+        "africa",
+        "as",
+        "august",
+        "en",
+        "gx",
+        "http:",
+        "index.jhtml",
+        "locations",
+        "map",
+        "maps"
+      ],
+      "thumb": "assets/thumbnails/slide_250.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_251",
+      "sn": 251,
+      "t": "Map\u000bAustralia and Pacific Rim",
+      "cat": "Maps",
+      "tags": [
+        "Map\u000bAustralia and Pacific Rim"
+      ],
+      "kw": [
+        "australia",
+        "map",
+        "maps",
+        "pacific",
+        "rim"
+      ],
+      "thumb": "assets/thumbnails/slide_251.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_252",
+      "sn": 252,
+      "t": "Maps\u000bGlobes",
+      "cat": "Maps",
+      "sub": "Africa",
+      "tags": [
+        "Maps\u000bGlobes",
+        "Africa",
+        "Africa and Europe",
+        "Africa and Europe and Asia",
+        "Americas"
+      ],
+      "kw": [
+        "africa",
+        "americas",
+        "asia",
+        "europe",
+        "globes",
+        "maps"
+      ],
+      "thumb": "assets/thumbnails/slide_252.png",
+      "type": "slide",
+      "img": true
+    },
+    {
+      "id": "slide_253",
+      "sn": 253,
+      "t": "Maps\u000bGlobes",
+      "cat": "Maps",
+      "sub": "Asia",
+      "tags": [
+        "Maps\u000bGlobes",
+        "Asia",
+        "Australia",
+        "Asia and Australia",
+        "Europe"
+      ],
+      "kw": [
+        "asia",
+        "australia",
+        "europe",
+        "globes",
+        "maps"
+      ],
+      "thumb": "assets/thumbnails/slide_253.png",
+      "type": "slide",
+      "img": true
+    },
+    {
+      "id": "slide_254",
+      "sn": 254,
+      "t": "Maps\u000bGlobes",
+      "cat": "Maps",
+      "sub": "Africa",
+      "tags": [
+        "Maps\u000bGlobes",
+        "Africa",
+        "Africa and Europe",
+        "Africa and Europe and Asia",
+        "Americas"
+      ],
+      "kw": [
+        "africa",
+        "americas",
+        "asia",
+        "europe",
+        "globes",
+        "maps"
+      ],
+      "thumb": "assets/thumbnails/slide_254.png",
+      "type": "slide",
+      "img": true
+    },
+    {
+      "id": "slide_255",
+      "sn": 255,
+      "t": "PwC Icon Library – Globes/Continents",
+      "cat": "Maps",
+      "sub": "Africa",
+      "tags": [
+        "PwC Icon Library – Globes/Continents",
+        "Africa",
+        "Africa and Europe",
+        "Africa and Europe",
+        "and Asia"
+      ],
+      "kw": [
+        "africa",
+        "asia",
+        "continents",
+        "europe",
+        "globes",
+        "icon",
+        "library",
+        "maps"
+      ],
+      "thumb": "assets/thumbnails/slide_255.png",
+      "type": "slide",
+      "img": true
+    },
+    {
+      "id": "slide_256",
+      "sn": 256,
+      "t": "Maps\u000bGlobes",
+      "cat": "Maps",
+      "sub": "Asia",
+      "tags": [
+        "Maps\u000bGlobes",
+        "Asia",
+        "Australia",
+        "Asia and Austeralia",
+        "Europe"
+      ],
+      "kw": [
+        "asia",
+        "austeralia",
+        "australia",
+        "europe",
+        "globes",
+        "maps"
+      ],
+      "thumb": "assets/thumbnails/slide_256.png",
+      "type": "slide",
+      "img": true
+    },
+    {
+      "id": "slide_257",
+      "sn": 257,
+      "t": "Maps\u000bDot map (grey dots fixed, coloured dots and names editable)",
+      "cat": "Tables",
+      "tags": [
+        "Maps\u000bDot map (grey dots fixed, coloured dots and names editable)",
+        "Vancouver",
+        "Atlanta",
+        "Toronto"
+      ],
+      "kw": [
+        "atlanta",
+        "coloured",
+        "dot",
+        "dots",
+        "editable",
+        "fixed",
+        "grey",
+        "map",
+        "maps",
+        "names"
+      ],
+      "thumb": "assets/thumbnails/slide_257.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_258",
+      "sn": 258,
+      "t": "ICON design",
+      "cat": "Icons",
+      "tags": [
+        "ICON design"
+      ],
+      "kw": [
+        "design",
+        "icon",
+        "icons"
+      ],
+      "thumb": "assets/thumbnails/slide_258.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_259",
+      "sn": 259,
+      "t": "Infographics in action\u000bHangers",
+      "cat": "Process Charts",
+      "tags": [
+        "Infographics in action\u000bHangers"
+      ],
+      "kw": [
+        "action",
+        "charts",
+        "hangers",
+        "infographics",
+        "process"
+      ],
+      "thumb": "assets/thumbnails/slide_259.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_260",
+      "sn": 260,
+      "t": "Infographics in action\u000bPaint",
+      "cat": "Process Charts",
+      "tags": [
+        "Infographics in action\u000bPaint"
+      ],
+      "kw": [
+        "action",
+        "charts",
+        "infographics",
+        "paint",
+        "process"
+      ],
+      "thumb": "assets/thumbnails/slide_260.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_261",
+      "sn": 261,
+      "t": "Infographics in action\u000bRisk map",
+      "cat": "Process Charts",
+      "tags": [
+        "Infographics in action\u000bRisk map",
+        "Financial impact",
+        "Likelihood"
+      ],
+      "kw": [
+        "action",
+        "charts",
+        "financial",
+        "impact",
+        "infographics",
+        "likelihood",
+        "map",
+        "process",
+        "risk"
+      ],
+      "thumb": "assets/thumbnails/slide_261.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_262",
+      "sn": 262,
+      "t": "Infographics in action\u000bTesting strategy",
+      "cat": "Process Charts",
+      "tags": [
+        "Infographics in action\u000bTesting strategy"
+      ],
+      "kw": [
+        "action",
+        "charts",
+        "infographics",
+        "process",
+        "strategy",
+        "testing"
+      ],
+      "thumb": "assets/thumbnails/slide_262.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_263",
+      "sn": 263,
+      "t": "3-Dimensional\u000bPyramids",
+      "cat": "Process Charts",
+      "tags": [
+        "3-Dimensional\u000bPyramids",
+        "Please insert your text",
+        "This is a placeholder text",
+        "Placeholder for title"
+      ],
+      "kw": [
+        "charts",
+        "dimensional",
+        "placeholder",
+        "please",
+        "process",
+        "pyramids",
+        "title",
+        "your"
+      ],
+      "thumb": "assets/thumbnails/slide_263.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_264",
+      "sn": 264,
+      "t": "Organizational chart",
+      "cat": "Org Charts",
+      "tags": [
+        "Organizational chart"
+      ],
+      "kw": [
+        "chart",
+        "charts",
+        "org",
+        "organizational"
+      ],
+      "thumb": "assets/thumbnails/slide_264.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_265",
+      "sn": 265,
+      "t": "Organizational chart (including headcount)",
+      "cat": "Org Charts",
+      "tags": [
+        "Organizational chart (including headcount)"
+      ],
+      "kw": [
+        "chart",
+        "charts",
+        "headcount",
+        "including",
+        "org",
+        "organizational"
+      ],
+      "thumb": "assets/thumbnails/slide_265.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_266",
+      "sn": 266,
+      "t": "Organizational charts/hierachy",
+      "cat": "Org Charts",
+      "tags": [
+        "Organizational charts/hierachy",
+        "Text",
+        "Text",
+        "Text"
+      ],
+      "kw": [
+        "charts",
+        "hierachy",
+        "org",
+        "organizational"
+      ],
+      "thumb": "assets/thumbnails/slide_266.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_267",
+      "sn": 267,
+      "t": "Organizational charts/hierachy",
+      "cat": "Org Charts",
+      "tags": [
+        "Organizational charts/hierachy",
+        "Text",
+        "Text",
+        "Text"
+      ],
+      "kw": [
+        "charts",
+        "hierachy",
+        "org",
+        "organizational"
+      ],
+      "thumb": "assets/thumbnails/slide_267.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_268",
+      "sn": 268,
+      "t": "Organizational charts/hierachy",
+      "cat": "Org Charts",
+      "tags": [
+        "Organizational charts/hierachy",
+        "Text",
+        "Text",
+        "Text"
+      ],
+      "kw": [
+        "charts",
+        "hierachy",
+        "org",
+        "organizational"
+      ],
+      "thumb": "assets/thumbnails/slide_268.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_269",
+      "sn": 269,
+      "t": "Organizational charts/hierachy",
+      "cat": "Org Charts",
+      "tags": [
+        "Organizational charts/hierachy",
+        "Text",
+        "Text",
+        "Text"
+      ],
+      "kw": [
+        "charts",
+        "hierachy",
+        "org",
+        "organizational"
+      ],
+      "thumb": "assets/thumbnails/slide_269.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_270",
+      "sn": 270,
+      "t": "Organizational charts/hierachy",
+      "cat": "Org Charts",
+      "tags": [
+        "Organizational charts/hierachy"
+      ],
+      "kw": [
+        "charts",
+        "hierachy",
+        "org",
+        "organizational"
+      ],
+      "thumb": "assets/thumbnails/slide_270.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_271",
+      "sn": 271,
+      "t": "Organizational charts/hierachy",
+      "cat": "Org Charts",
+      "tags": [
+        "Organizational charts/hierachy"
+      ],
+      "kw": [
+        "charts",
+        "hierachy",
+        "org",
+        "organizational"
+      ],
+      "thumb": "assets/thumbnails/slide_271.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_272",
+      "sn": 272,
+      "t": "Organizational charts/hierachy",
+      "cat": "Org Charts",
+      "tags": [
+        "Organizational charts/hierachy"
+      ],
+      "kw": [
+        "charts",
+        "hierachy",
+        "org",
+        "organizational"
+      ],
+      "thumb": "assets/thumbnails/slide_272.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_273",
+      "sn": 273,
+      "t": "Organizational charts/hierachy",
+      "cat": "Org Charts",
+      "tags": [
+        "Organizational charts/hierachy"
+      ],
+      "kw": [
+        "charts",
+        "hierachy",
+        "org",
+        "organizational"
+      ],
+      "thumb": "assets/thumbnails/slide_273.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_274",
+      "sn": 274,
+      "t": "Organizational charts/hierachy",
+      "cat": "Org Charts",
+      "tags": [
+        "Organizational charts/hierachy",
+        "Text",
+        "Text",
+        "Text"
+      ],
+      "kw": [
+        "charts",
+        "hierachy",
+        "org",
+        "organizational"
+      ],
+      "thumb": "assets/thumbnails/slide_274.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_275",
+      "sn": 275,
+      "t": "Organizational charts/hierachy",
+      "cat": "Org Charts",
+      "tags": [
+        "Organizational charts/hierachy",
+        "Name",
+        "Function",
+        "Name"
+      ],
+      "kw": [
+        "charts",
+        "function",
+        "hierachy",
+        "org",
+        "organizational"
+      ],
+      "thumb": "assets/thumbnails/slide_275.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_276",
+      "sn": 276,
+      "t": "Organizational charts/hierachy",
+      "cat": "Org Charts",
+      "tags": [
+        "Organizational charts/hierachy",
+        "CEO Name",
+        "CEO",
+        "Name Dep. 1"
+      ],
+      "kw": [
+        "ceo",
+        "charts",
+        "dep.",
+        "hierachy",
+        "org",
+        "organizational"
+      ],
+      "thumb": "assets/thumbnails/slide_276.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_277",
+      "sn": 277,
+      "t": "Organizational charts/hierarchy",
+      "cat": "Org Charts",
+      "tags": [
+        "Organizational charts/hierarchy"
+      ],
+      "kw": [
+        "charts",
+        "hierarchy",
+        "org",
+        "organizational"
+      ],
+      "thumb": "assets/thumbnails/slide_277.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_278",
+      "sn": 278,
+      "t": "Organizational charts/hierarchy",
+      "cat": "Org Charts",
+      "tags": [
+        "Organizational charts/hierarchy"
+      ],
+      "kw": [
+        "charts",
+        "hierarchy",
+        "org",
+        "organizational"
+      ],
+      "thumb": "assets/thumbnails/slide_278.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_279",
+      "sn": 279,
+      "t": "Organizational charts/hierarchy",
+      "cat": "Org Charts",
+      "tags": [
+        "Organizational charts/hierarchy"
+      ],
+      "kw": [
+        "charts",
+        "hierarchy",
+        "org",
+        "organizational"
+      ],
+      "thumb": "assets/thumbnails/slide_279.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_280",
+      "sn": 280,
+      "t": "Organizational charts/hierarchy",
+      "cat": "Org Charts",
+      "tags": [
+        "Organizational charts/hierarchy"
+      ],
+      "kw": [
+        "charts",
+        "hierarchy",
+        "org",
+        "organizational"
+      ],
+      "thumb": "assets/thumbnails/slide_280.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_281",
+      "sn": 281,
+      "t": "Common org. chart options",
+      "cat": "Org Charts",
+      "tags": [
+        "Common org. chart options"
+      ],
+      "kw": [
+        "chart",
+        "charts",
+        "common",
+        "options",
+        "org",
+        "org."
+      ],
+      "thumb": "assets/thumbnails/slide_281.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_282",
+      "sn": 282,
+      "t": "Common org. chart options",
+      "cat": "Org Charts",
+      "tags": [
+        "Common org. chart options"
+      ],
+      "kw": [
+        "chart",
+        "charts",
+        "common",
+        "options",
+        "org",
+        "org."
+      ],
+      "thumb": "assets/thumbnails/slide_282.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_283",
+      "sn": 283,
+      "t": "Common org. chart options",
+      "cat": "Org Charts",
+      "tags": [
+        "Common org. chart options"
+      ],
+      "kw": [
+        "chart",
+        "charts",
+        "common",
+        "options",
+        "org",
+        "org."
+      ],
+      "thumb": "assets/thumbnails/slide_283.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_284",
+      "sn": 284,
+      "t": "Vertical reading org. chart",
+      "cat": "Org Charts",
+      "tags": [
+        "Vertical reading org. chart"
+      ],
+      "kw": [
+        "chart",
+        "charts",
+        "org",
+        "org.",
+        "reading",
+        "vertical"
+      ],
+      "thumb": "assets/thumbnails/slide_284.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_285",
+      "sn": 285,
+      "t": "A more complicated org. chart",
+      "cat": "Org Charts",
+      "sub": "International Team",
+      "tags": [
+        "A more complicated org. chart",
+        "International Team",
+        "Firstname Lastname",
+        "Firstname Lastname",
+        "Firstname Lastname"
+      ],
+      "kw": [
+        "chart",
+        "charts",
+        "complicated",
+        "firstname",
+        "international",
+        "lastname",
+        "more",
+        "org",
+        "org.",
+        "team"
+      ],
+      "thumb": "assets/thumbnails/slide_285.png",
+      "type": "slide",
+      "img": true
+    },
+    {
+      "id": "slide_286",
+      "sn": 286,
+      "t": "Text-heavy org. chart",
+      "cat": "Org Charts",
+      "tags": [
+        "Text-heavy org. chart"
+      ],
+      "kw": [
+        "chart",
+        "charts",
+        "heavy",
+        "org",
+        "org."
+      ],
+      "thumb": "assets/thumbnails/slide_286.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_287",
+      "sn": 287,
+      "t": "Complicated org. charts",
+      "cat": "Org Charts",
+      "tags": [
+        "Complicated org. charts"
+      ],
+      "kw": [
+        "charts",
+        "complicated",
+        "org",
+        "org."
+      ],
+      "thumb": "assets/thumbnails/slide_287.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_288",
+      "sn": 288,
+      "t": "Complicated org. charts",
+      "cat": "Org Charts",
+      "tags": [
+        "Complicated org. charts"
+      ],
+      "kw": [
+        "charts",
+        "complicated",
+        "org",
+        "org."
+      ],
+      "thumb": "assets/thumbnails/slide_288.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
+    },
+    {
+      "id": "slide_289",
+      "sn": 289,
+      "t": "Strategic audit team org. chart",
+      "cat": "Org Charts",
+      "tags": [
+        "Strategic audit team org. chart"
+      ],
+      "kw": [
+        "audit",
+        "chart",
+        "charts",
+        "org",
+        "org.",
+        "strategic",
+        "team"
+      ],
+      "thumb": "assets/thumbnails/slide_289.png",
+      "type": "slide",
+      "img": true,
+      "sub": ""
     }
   ]
 }
